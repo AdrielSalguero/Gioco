@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Benvenuto
 
 This project arises from the need for a simple system to learn verbs, their conjugations and some of the most important connectors.
@@ -19,3 +20,6 @@ Then the records are saved in a database to know who has practiced, if they have
 I hope you like it and have fun.
 
 Greetings!
+=======
+# Gioco
+>>>>>>> b0f2295b5e8d7d9b0193056f981e7b5bf6739770
