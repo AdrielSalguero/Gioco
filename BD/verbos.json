@@ -1,0 +1,784 @@
+{
+    "verbs": [
+      {
+        "infinitive": "abitare",
+        "translation": "vivir",
+        "passato_prossimo": "ho abitato",
+        "passato_imperfetto": "abitavo",
+        "futuro_semplice": "abiterò",
+        "futuro_anteriore": "avrò abitato"
+      },
+      {
+        "infinitive": "aiutare",
+        "translation": "ayudar",
+        "passato_prossimo": "ho aiutato",
+        "passato_imperfetto": "aiutavo",
+        "futuro_semplice": "aiuterò",
+        "futuro_anteriore": "avrò aiutato"
+      },
+      {
+        "infinitive": "alzare",
+        "translation": "levantar",
+        "passato_prossimo": "ho alzato",
+        "passato_imperfetto": "alzavo",
+        "futuro_semplice": "alzerò",
+        "futuro_anteriore": "avrò alzato"
+      },
+      {
+        "infinitive": "amare",
+        "translation": "amar",
+        "passato_prossimo": "ho amato",
+        "passato_imperfetto": "amavo",
+        "futuro_semplice": "amerò",
+        "futuro_anteriore": "avrò amato"
+      },
+      {
+        "infinitive": "andare",
+        "translation": "ir",
+        "passato_prossimo": "sono andato",
+        "passato_imperfetto": "andavo",
+        "futuro_semplice": "andrò",
+        "futuro_anteriore": "sarò andato"
+      },
+      {
+        "infinitive": "apparire",
+        "translation": "aparecer",
+        "passato_prossimo": "sono apparso",
+        "passato_imperfetto": "apparivo",
+        "futuro_semplice": "apparirò",
+        "futuro_anteriore": "sarò apparso"
+      },
+      {
+        "infinitive": "aprire",
+        "translation": "abrir",
+        "passato_prossimo": "ho aperto",
+        "passato_imperfetto": "aprivo",
+        "futuro_semplice": "aprirò",
+        "futuro_anteriore": "avrò aperto"
+      },
+      {
+        "infinitive": "arrivare",
+        "translation": "llegar",
+        "passato_prossimo": "sono arrivato",
+        "passato_imperfetto": "arrivavo",
+        "futuro_semplice": "arriverò",
+        "futuro_anteriore": "sarò arrivato"
+      },
+      {
+        "infinitive": "ascoltare",
+        "translation": "escuchar",
+        "passato_prossimo": "ho ascoltato",
+        "passato_imperfetto": "ascoltavo",
+        "futuro_semplice": "ascolterò",
+        "futuro_anteriore": "avrò ascoltato"
+      },
+      {
+        "infinitive": "aspettare",
+        "translation": "esperar",
+        "passato_prossimo": "ho aspettato",
+        "passato_imperfetto": "aspettavo",
+        "futuro_semplice": "aspetterò",
+        "futuro_anteriore": "avrò aspettato"
+      },
+      {
+        "infinitive": "avere",
+        "translation": "tener",
+        "passato_prossimo": "ho avuto",
+        "passato_imperfetto": "avevo",
+        "futuro_semplice": "avrò",
+        "futuro_anteriore": "avrò avuto"
+      },
+      {
+        "infinitive": "bere",
+        "translation": "beber",
+        "passato_prossimo": "ho bevuto",
+        "passato_imperfetto": "bevevo",
+        "futuro_semplice": "berò",
+        "futuro_anteriore": "avrò bevuto"
+      },
+      {
+        "infinitive": "cadere",
+        "translation": "caer",
+        "passato_prossimo": "sono caduto",
+        "passato_imperfetto": "cadevo",
+        "futuro_semplice": "cadrò",
+        "futuro_anteriore": "sarò caduto"
+      },
+      {
+        "infinitive": "cambiare",
+        "translation": "cambiar",
+        "passato_prossimo": "ho cambiato",
+        "passato_imperfetto": "cambiavo",
+        "futuro_semplice": "cambierò",
+        "futuro_anteriore": "avrò cambiato"
+      },
+      {
+        "infinitive": "camminare",
+        "translation": "caminar",
+        "passato_prossimo": "ho camminato",
+        "passato_imperfetto": "camminavo",
+        "futuro_semplice": "camminerò",
+        "futuro_anteriore": "avrò camminato"
+      },
+      {
+        "infinitive": "cantare",
+        "translation": "cantar",
+        "passato_prossimo": "ho cantato",
+        "passato_imperfetto": "cantavo",
+        "futuro_semplice": "canterò",
+        "futuro_anteriore": "avrò cantato"
+      },
+      {
+        "infinitive": "capire",
+        "translation": "entender",
+        "passato_prossimo": "ho capito",
+        "passato_imperfetto": "capivo",
+        "futuro_semplice": "capirò",
+        "futuro_anteriore": "avrò capito"
+      },
+      {
+        "infinitive": "cercare",
+        "translation": "buscar",
+        "passato_prossimo": "ho cercato",
+        "passato_imperfetto": "cercavo",
+        "futuro_semplice": "cercherò",
+        "futuro_anteriore": "avrò cercato"
+      },
+      {
+        "infinitive": "chiamare",
+        "translation": "llamar",
+        "passato_prossimo": "ho chiamato",
+        "passato_imperfetto": "chiamavo",
+        "futuro_semplice": "chiamerò",
+        "futuro_anteriore": "avrò chiamato"
+      },
+      {
+        "infinitive": "chiedere",
+        "translation": "pedir",
+        "passato_prossimo": "ho chiesto",
+        "passato_imperfetto": "chiedevo",
+        "futuro_semplice": "chiederò",
+        "futuro_anteriore": "avrò chiesto"
+      },
+      {
+        "infinitive": "chiudere",
+        "translation": "cerrar",
+        "passato_prossimo": "ho chiuso",
+        "passato_imperfetto": "chiudevo",
+        "futuro_semplice": "chiuderò",
+        "futuro_anteriore": "avrò chiuso"
+      },
+      {
+        "infinitive": "cominciare",
+        "translation": "empezar",
+        "passato_prossimo": "ho cominciato",
+        "passato_imperfetto": "cominciavo",
+        "futuro_semplice": "comincerò",
+        "futuro_anteriore": "avrò cominciato"
+      },
+      {
+        "infinitive": "comprare",
+        "translation": "comprar",
+        "passato_prossimo": "ho comprato",
+        "passato_imperfetto": "compravo",
+        "futuro_semplice": "comprerò",
+        "futuro_anteriore": "avrò comprato"
+      },
+      {
+        "infinitive": "conoscere",
+        "translation": "conocer",
+        "passato_prossimo": "ho conosciuto",
+        "passato_imperfetto": "conoscevo",
+        "futuro_semplice": "conoscerò",
+        "futuro_anteriore": "avrò conosciuto"
+      },
+      {
+        "infinitive": "correre",
+        "translation": "correr",
+        "passato_prossimo": "ho corso",
+        "passato_imperfetto": "correvo",
+        "futuro_semplice": "correrò",
+        "futuro_anteriore": "avrò corso"
+      },
+      {
+        "infinitive": "credere",
+        "translation": "creer",
+        "passato_prossimo": "ho creduto",
+        "passato_imperfetto": "credevo",
+        "futuro_semplice": "crederò",
+        "futuro_anteriore": "avrò creduto"
+      },
+      {
+        "infinitive": "crescere",
+        "translation": "crecer",
+        "passato_prossimo": "ho cresciuto",
+        "passato_imperfetto": "crescevo",
+        "futuro_semplice": "crescerò",
+        "futuro_anteriore": "avrò cresciuto"
+      },
+      {
+        "infinitive": "cuocere",
+        "translation": "cocer",
+        "passato_prossimo": "ho cotto",
+        "passato_imperfetto": "cucevo",
+        "futuro_semplice": "cucirò",
+        "futuro_anteriore": "avrò cotto"
+      },
+      {
+        "infinitive": "dare",
+        "translation": "dar",
+        "passato_prossimo": "ho dato",
+        "passato_imperfetto": "davo",
+        "futuro_semplice": "darò",
+        "futuro_anteriore": "avrò dato"
+      },
+      {
+        "infinitive": "decidere",
+        "translation": "decidir",
+        "passato_prossimo": "ho deciso",
+        "passato_imperfetto": "decidevo",
+        "futuro_semplice": "deciderò",
+        "futuro_anteriore": "avrò deciso"
+      },
+      {
+        "infinitive": "dimenticare",
+        "translation": "olvidar",
+        "passato_prossimo": "ho dimenticato",
+        "passato_imperfetto": "dimenticavo",
+        "futuro_semplice": "dimenticherò",
+        "futuro_anteriore": "avrò dimenticato"
+      },
+      {
+        "infinitive": "dire",
+        "translation": "decir",
+        "passato_prossimo": "ho detto",
+        "passato_imperfetto": "dicevo",
+        "futuro_semplice": "dirò",
+        "futuro_anteriore": "avrò detto"
+      },
+      {
+        "infinitive": "diventare",
+        "translation": "convertirse",
+        "passato_prossimo": "sono diventato",
+        "passato_imperfetto": "diventavo",
+        "futuro_semplice": "diventerò",
+        "futuro_anteriore": "sarò diventato"
+      },
+      {
+        "infinitive": "divertire",
+        "translation": "divertir",
+        "passato_prossimo": "mi sono divertito",
+        "passato_imperfetto": "mi divertivo",
+        "futuro_semplice": "mi divertirò",
+        "futuro_anteriore": "mi sarò divertito"
+      },
+      {
+        "infinitive": "dormire",
+        "translation": "dormir",
+        "passato_prossimo": "ho dormito",
+        "passato_imperfetto": "dormivo",
+        "futuro_semplice": "dormirò",
+        "futuro_anteriore": "avrò dormito"
+      },
+      {
+        "infinitive": "dovere",
+        "translation": "deber",
+        "passato_prossimo": "ho dovuto",
+        "passato_imperfetto": "dovevo",
+        "futuro_semplice": "dovrò",
+        "futuro_anteriore": "avrò dovuto"
+      },
+      {
+        "infinitive": "entrare",
+        "translation": "entrar",
+        "passato_prossimo": "sono entrato",
+        "passato_imperfetto": "entravo",
+        "futuro_semplice": "entrerò",
+        "futuro_anteriore": "sarò entrato"
+      },
+      {
+        "infinitive": "essere",
+        "translation": "ser",
+        "passato_prossimo": "sono stato",
+        "passato_imperfetto": "ero",
+        "futuro_semplice": "sarò",
+        "futuro_anteriore": "sarò stato"
+      },
+      {
+        "infinitive": "fare",
+        "translation": "hacer",
+        "passato_prossimo": "ho fatto",
+        "passato_imperfetto": "facevo",
+        "futuro_semplice": "farò",
+        "futuro_anteriore": "avrò fatto"
+      },
+      {
+        "infinitive": "finire",
+        "translation": "acabar",
+        "passato_prossimo": "ho finito",
+        "passato_imperfetto": "finivo",
+        "futuro_semplice": "finirò",
+        "futuro_anteriore": "avrò finito"
+      },
+      {
+        "infinitive": "giocare",
+        "translation": "jugar",
+        "passato_prossimo": "ho giocato",
+        "passato_imperfetto": "giocavo",
+        "futuro_semplice": "giocherò",
+        "futuro_anteriore": "avrò giocato"
+      },
+      {
+        "infinitive": "guardare",
+        "translation": "mirar",
+        "passato_prossimo": "ho guardato",
+        "passato_imperfetto": "guardavo",
+        "futuro_semplice": "guarderò",
+        "futuro_anteriore": "avrò guardato"
+      },
+      {
+        "infinitive": "imparare",
+        "translation": "aprender",
+        "passato_prossimo": "ho imparato",
+        "passato_imperfetto": "imparavo",
+        "futuro_semplice": "imparerò",
+        "futuro_anteriore": "avrò imparato"
+      },
+      {
+        "infinitive": "incontrare",
+        "translation": "encontrar",
+        "passato_prossimo": "ho incontrato",
+        "passato_imperfetto": "incontravo",
+        "futuro_semplice": "incontrerò",
+        "futuro_anteriore": "avrò incontrato"
+      },
+      {
+        "infinitive": "lasciare",
+        "translation": "dejar",
+        "passato_prossimo": "ho lasciato",
+        "passato_imperfetto": "lasciavo",
+        "futuro_semplice": "lascerò",
+        "futuro_anteriore": "avrò lasciato"
+      },
+      {
+        "infinitive": "lavare",
+        "translation": "lavar",
+        "passato_prossimo": "ho lavato",
+        "passato_imperfetto": "lavavo",
+        "futuro_semplice": "laverò",
+        "futuro_anteriore": "avrò lavato"
+      },
+      {
+        "infinitive": "lavorare",
+        "translation": "trabajar",
+        "passato_prossimo": "ho lavorato",
+        "passato_imperfetto": "lavoravo",
+        "futuro_semplice": "lavorerò",
+        "futuro_anteriore": "avrò lavorato"
+      },
+      {
+        "infinitive": "leggere",
+        "translation": "leer",
+        "passato_prossimo": "ho letto",
+        "passato_imperfetto": "leggevo",
+        "futuro_semplice": "leggerò",
+        "futuro_anteriore": "avrò letto"
+      },
+      {
+        "infinitive": "mangiare",
+        "translation": "comer",
+        "passato_prossimo": "ho mangiato",
+        "passato_imperfetto": "mangiavo",
+        "futuro_semplice": "mangerò",
+        "futuro_anteriore": "avrò mangiato"
+      },
+      {
+        "infinitive": "mettere",
+        "translation": "poner",
+        "passato_prossimo": "ho messo",
+        "passato_imperfetto": "mettevo",
+        "futuro_semplice": "metterò",
+        "futuro_anteriore": "avrò messo"
+      },
+      {
+        "infinitive": "morire",
+        "translation": "morir",
+        "passato_prossimo": "sono morto",
+        "passato_imperfetto": "morivo",
+        "futuro_semplice": "morirò",
+        "futuro_anteriore": "sarò morto"
+      },
+      {
+        "infinitive": "nascere",
+        "translation": "nacer",
+        "passato_prossimo": "sono nato",
+        "passato_imperfetto": "nascevo",
+        "futuro_semplice": "nascerò",
+        "futuro_anteriore": "sarò nato"
+      },
+      {
+        "infinitive": "offrire",
+        "translation": "ofrecer",
+        "passato_prossimo": "ho offerto",
+        "passato_imperfetto": "offrivo",
+        "futuro_semplice": "offrirò",
+        "futuro_anteriore": "avrò offerto"
+      },
+      {
+        "infinitive": "pagare",
+        "translation": "pagar",
+        "passato_prossimo": "ho pagato",
+        "passato_imperfetto": "pagavo",
+        "futuro_semplice": "pagherò",
+        "futuro_anteriore": "avrò pagato"
+      },
+      {
+        "infinitive": "parlare",
+        "translation": "hablar",
+        "passato_prossimo": "ho parlato",
+        "passato_imperfetto": "parlavo",
+        "futuro_semplice": "parerò",
+        "futuro_anteriore": "avrò parlato"
+      },
+      {
+        "infinitive": "partire",
+        "translation": "partir",
+        "passato_prossimo": "sono partito",
+        "passato_imperfetto": "partivo",
+        "futuro_semplice": "partirò",
+        "futuro_anteriore": "sarò partito"
+      },
+      {
+        "infinitive": "passare",
+        "translation": "pasar",
+        "passato_prossimo": "ho passato",
+        "passato_imperfetto": "passavo",
+        "futuro_semplice": "passerò",
+        "futuro_anteriore": "avrò passato"
+      },
+      {
+        "infinitive": "pensare",
+        "translation": "pensar",
+        "passato_prossimo": "ho pensato",
+        "passato_imperfetto": "pensavo",
+        "futuro_semplice": "penserò",
+        "futuro_anteriore": "avrò pensato"
+      },
+      {
+        "infinitive": "perdere",
+        "translation": "perder",
+        "passato_prossimo": "ho perso",
+        "passato_imperfetto": "perdevo",
+        "futuro_semplice": "perderò",
+        "futuro_anteriore": "avrò perso"
+      },
+      {
+        "infinitive": "piacere",
+        "translation": "gustar",
+        "passato_prossimo": "mi è piaciuto",
+        "passato_imperfetto": "mi piacevo",
+        "futuro_semplice": "mi piacerò",
+        "futuro_anteriore": "mi sarà piaciuto"
+      },
+      {
+        "infinitive": "porre",
+        "translation": "poner",
+        "passato_prossimo": "ho posto",
+        "passato_imperfetto": "ponevo",
+        "futuro_semplice": "porrò",
+        "futuro_anteriore": "avrò posto"
+      },
+      {
+        "infinitive": "portare",
+        "translation": "llevar",
+        "passato_prossimo": "ho portato",
+        "passato_imperfetto": "portavo",
+        "futuro_semplice": "porterò",
+        "futuro_anteriore": "avrò portato"
+      },
+      {
+        "infinitive": "potere",
+        "translation": "poder",
+        "passato_prossimo": "ho potuto",
+        "passato_imperfetto": "potevo",
+        "futuro_semplice": "potrò",
+        "futuro_anteriore": "avrò potuto"
+      },
+      {
+        "infinitive": "preferire",
+        "translation": "preferir",
+        "passato_prossimo": "ho preferito",
+        "passato_imperfetto": "preferivo",
+        "futuro_semplice": "preferirò",
+        "futuro_anteriore": "avrò preferito"
+      },
+      {
+        "infinitive": "prendere",
+        "translation": "coger",
+        "passato_prossimo": "ho preso",
+        "passato_imperfetto": "prendavo",
+        "futuro_semplice": "prenderò",
+        "futuro_anteriore": "avrò preso"
+      },
+      {
+        "infinitive": "pulire",
+        "translation": "limpiar",
+        "passato_prossimo": "ho pulito",
+        "passato_imperfetto": "pulivo",
+        "futuro_semplice": "pulirò",
+        "futuro_anteriore": "avrò pulito"
+      },
+      {
+        "infinitive": "restare",
+        "translation": "permanecer",
+        "passato_prossimo": "sono rimasto",
+        "passato_imperfetto": "rimanevo",
+        "futuro_semplice": "rimarrò",
+        "futuro_anteriore": "sarò rimasto"
+      },
+      {
+        "infinitive": "ricevere",
+        "translation": "recibir",
+        "passato_prossimo": "ho ricevuto",
+        "passato_imperfetto": "ricevevo",
+        "futuro_semplice": "riceverò",
+        "futuro_anteriore": "avrò ricevuto"
+      },
+      {
+        "infinitive": "ricordare",
+        "translation": "recordar",
+        "passato_prossimo": "ho ricordato",
+        "passato_imperfetto": "ricordavo",
+        "futuro_semplice": "ricorderò",
+        "futuro_anteriore": "avrò ricordato"
+      },
+      {
+        "infinitive": "ridere",
+        "translation": "reír",
+        "passato_prossimo": "ho riso",
+        "passato_imperfetto": "ridevo",
+        "futuro_semplice": "rirò",
+        "futuro_anteriore": "avrò riso"
+      },
+      {
+        "infinitive": "rimanere",
+        "translation": "permanecer",
+        "passato_prossimo": "sono rimasto",
+        "passato_imperfetto": "rimanevo",
+        "futuro_semplice": "rimarrò",
+        "futuro_anteriore": "sarò rimasto"
+      },
+      {
+        "infinitive": "rispondere",
+        "translation": "responder",
+        "passato_prossimo": "ho risposto",
+        "passato_imperfetto": "rispondevo",
+        "futuro_semplice": "risponderò",
+        "futuro_anteriore": "avrò risposto"
+      },
+      {
+        "infinitive": "riuscire",
+        "translation": "conseguir",
+        "passato_prossimo": "ho riuscito",
+        "passato_imperfetto": "riuscivo",
+        "futuro_semplice": "riuscirò",
+        "futuro_anteriore": "avrò riuscito"
+      },
+      {
+        "infinitive": "salire",
+        "translation": "subir",
+        "passato_prossimo": "sono salito",
+        "passato_imperfetto": "salivo",
+        "futuro_semplice": "salirò",
+        "futuro_anteriore": "sarò salito"
+      },
+      {
+        "infinitive": "sapere",
+        "translation": "saber",
+        "passato_prossimo": "ho saputo",
+        "passato_imperfetto": "sapevo",
+        "futuro_semplice": "saprò",
+        "futuro_anteriore": "avrò saputo"
+      },
+      {
+        "infinitive": "scegliere",
+        "translation": "elegir",
+        "passato_prossimo": "ho scelto",
+        "passato_imperfetto": "sceglievo",
+        "futuro_semplice": "sceglierò",
+        "futuro_anteriore": "avrò scelto"
+      },
+      {
+        "infinitive": "scendere",
+        "translation": "bajar",
+        "passato_prossimo": "sono sceso",
+        "passato_imperfetto": "scendevo",
+        "futuro_semplice": "scenderò",
+        "futuro_anteriore": "sarò sceso"
+      },
+      {
+        "infinitive": "scrivere",
+        "translation": "escribir",
+        "passato_prossimo": "ho scritto",
+        "passato_imperfetto": "scrivevo",
+        "futuro_semplice": "scriverò",
+        "futuro_anteriore": "avrò scritto"
+      },
+      {
+        "infinitive": "sedere",
+        "translation": "sentarse",
+        "passato_prossimo": "mi sono seduto",
+        "passato_imperfetto": "mi sedevo",
+        "futuro_semplice": "mi siederò",
+        "futuro_anteriore": "mi sarò seduto"
+      },
+      {
+        "infinitive": "seguire",
+        "translation": "seguir",
+        "passato_prossimo": "ho seguito",
+        "passato_imperfetto": "seguivo",
+        "futuro_semplice": "seguirò",
+        "futuro_anteriore": "avrò seguito"
+      },
+      {
+        "infinitive": "sentire",
+        "translation": "escuchar",
+        "passato_prossimo": "ho sentito",
+        "passato_imperfetto": "sentivo",
+        "futuro_semplice": "sentrò",
+        "futuro_anteriore": "avrò sentito"
+      },
+      {
+        "infinitive": "spedire",
+        "translation": "enviar",
+        "passato_prossimo": "ho spedito",
+        "passato_imperfetto": "spedivo",
+        "futuro_semplice": "spedirò",
+        "futuro_anteriore": "avrò spedito"
+      },
+      {
+        "infinitive": "spegnere",
+        "translation": "apagar",
+        "passato_prossimo": "ho spento",
+        "passato_imperfetto": "spegnivo",
+        "futuro_semplice": "spegnerò",
+        "futuro_anteriore": "avrò spento"
+      },
+      {
+        "infinitive": "stare",
+        "translation": "estar",
+        "passato_prossimo": "sono stato",
+        "passato_imperfetto": "stavo",
+        "futuro_semplice": "starò",
+        "futuro_anteriore": "sarò stato"
+      },
+      {
+        "infinitive": "studiare",
+        "translation": "estudiar",
+        "passato_prossimo": "ho studiato",
+        "passato_imperfetto": "studiavo",
+        "futuro_semplice": "studierò",
+        "futuro_anteriore": "avrò studiato"
+      },
+      {
+        "infinitive": "succedere",
+        "translation": "suceder",
+        "passato_prossimo": "sono successo",
+        "passato_imperfetto": "succedivo",
+        "futuro_semplice": "succederò",
+        "futuro_anteriore": "sarò successo"
+      },
+      {
+        "infinitive": "tagliare",
+        "translation": "cortar",
+        "passato_prossimo": "ho tagliato",
+        "passato_imperfetto": "tagliavo",
+        "futuro_semplice": "taglierò",
+        "futuro_anteriore": "avrò tagliato"
+      },
+      {
+        "infinitive": "telefonare",
+        "translation": "llamar por teléfono",
+        "passato_prossimo": "ho telefonato",
+        "passato_imperfetto": "telefonavo",
+        "futuro_semplice": "telefonerò",
+        "futuro_anteriore": "avrò telefonato"
+      },
+      {
+        "infinitive": "temere",
+        "translation": "temer",
+        "passato_prossimo": "ho temuto",
+        "passato_imperfetto": "temevo",
+        "futuro_semplice": "temerò",
+        "futuro_anteriore": "avrò temuto"
+      },
+      {
+        "infinitive": "tenere",
+        "translation": "tener",
+        "passato_prossimo": "ho tenuto",
+        "passato_imperfetto": "tenevo",
+        "futuro_semplice": "terrò",
+        "futuro_anteriore": "avrò tenuto"
+      },
+      {
+        "infinitive": "tornare",
+        "translation": "volver",
+        "passato_prossimo": "sono tornato",
+        "passato_imperfetto": "tornavo",
+        "futuro_semplice": "tornerò",
+        "futuro_anteriore": "sarò tornato"
+      },
+      {
+        "infinitive": "trovare",
+        "translation": "encontrar",
+        "passato_prossimo": "ho trovato",
+        "passato_imperfetto": "trovavo",
+        "futuro_semplice": "troverò",
+        "futuro_anteriore": "avrò trovato"
+      },
+      {
+        "infinitive": "uscire",
+        "translation": "salir",
+        "passato_prossimo": "sono uscito",
+        "passato_imperfetto": "uscivo",
+        "futuro_semplice": "uscirò",
+        "futuro_anteriore": "sarò uscito"
+      },
+      {
+        "infinitive": "vedere",
+        "translation": "ver",
+        "passato_prossimo": "ho visto",
+        "passato_imperfetto": "vedevo",
+        "futuro_semplice": "vedrò",
+        "futuro_anteriore": "avrò visto"
+      },
+      {
+        "infinitive": "venire",
+        "translation": "venir",
+        "passato_prossimo": "sono venuto",
+        "passato_imperfetto": "venivo",
+        "futuro_semplice": "verrò",
+        "futuro_anteriore": "sarò venuto"
+      },
+      {
+        "infinitive": "vivere",
+        "translation": "vivir",
+        "passato_prossimo": "ho vissuto",
+        "passato_imperfetto": "vivevo",
+        "futuro_semplice": "vivrò",
+        "futuro_anteriore": "avrò vissuto"
+      },
+      {
+        "infinitive": "volere",
+        "translation": "querer",
+        "passato_prossimo": "ho voluto",
+        "passato_imperfetto": "volevo",
+        "futuro_semplice": "vorò",
+        "futuro_anteriore": "avrò voluto"
+      }
+      
+    
+    ]
+  }
+
+  
