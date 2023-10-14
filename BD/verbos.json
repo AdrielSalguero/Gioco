@@ -3,782 +3,3304 @@
       {
         "infinitive": "abitare",
         "translation": "vivir",
-        "passato_prossimo": "ho abitato",
-        "passato_imperfetto": "abitavo",
-        "futuro_semplice": "abiterò",
-        "futuro_anteriore": "avrò abitato"
+        "persona": {
+          "Io": {
+            "presente": "abito",
+            "passato_prossimo": "ho abitato",
+            "passato_imperfetto": "abitavo",
+            "futuro_semplice": "abiterò",
+            "futuro_anteriore": "avrò abitato"
+          },
+          "Lui/Lei": {
+            "presente": "abita",
+            "passato_prossimo": "ha abitato",
+            "passato_imperfetto": "abitava",
+            "futuro_semplice": "abiterà",
+            "futuro_anteriore": "avrà abitato"
+          },
+          "Tu": {
+            "presente": "abiti",
+            "passato_prossimo": "hai abitato",
+            "passato_imperfetto": "abitavi",
+            "futuro_semplice": "abiterai",
+            "futuro_anteriore": "avrai abitato"
+          },
+          "Noi": {
+            "presente": "abitiamo",
+            "passato_prossimo": "abbiamo abitato",
+            "passato_imperfetto": "abitavamo",
+            "futuro_semplice": "abiteremo",
+            "futuro_anteriore": "avremo abitato"
+          }
+        }
       },
       {
         "infinitive": "aiutare",
         "translation": "ayudar",
-        "passato_prossimo": "ho aiutato",
-        "passato_imperfetto": "aiutavo",
-        "futuro_semplice": "aiuterò",
-        "futuro_anteriore": "avrò aiutato"
+        "persona": {
+          "Io": {
+            "presente": "aiuto",
+            "passato_prossimo": "ho aiutato",
+            "passato_imperfetto": "aiutavo",
+            "futuro_semplice": "aiuterò",
+            "futuro_anteriore": "avrò aiutato"
+          },
+          "Lui/Lei": {
+            "presente": "aiuta",
+            "passato_prossimo": "ha aiutato",
+            "passato_imperfetto": "aiutava",
+            "futuro_semplice": "aiuterà",
+            "futuro_anteriore": "avrà aiutato"
+          },
+          "Tu": {
+            "presente": "aiuti",
+            "passato_prossimo": "hai aiutato",
+            "passato_imperfetto": "aiutavi",
+            "futuro_semplice": "aiuterai",
+            "futuro_anteriore": "avrai aiutato"
+          },
+          "Noi": {
+            "presente": "aiutiamo",
+            "passato_prossimo": "abbiamo aiutato",
+            "passato_imperfetto": "aiutavamo",
+            "futuro_semplice": "aiuteremo",
+            "futuro_anteriore": "avremo aiutato"
+          }
+        }
       },
       {
         "infinitive": "alzare",
         "translation": "levantar",
-        "passato_prossimo": "ho alzato",
-        "passato_imperfetto": "alzavo",
-        "futuro_semplice": "alzerò",
-        "futuro_anteriore": "avrò alzato"
+        "persona": {
+          "Io": {
+            "presente": "alzo",
+            "passato_prossimo": "ho alzato",
+            "passato_imperfetto": "alzavo",
+            "futuro_semplice": "alzerò",
+            "futuro_anteriore": "avrò alzato"
+          },
+          "Lui/Lei": {
+            "presente": "alza",
+            "passato_prossimo": "ha alzato",
+            "passato_imperfetto": "alzava",
+            "futuro_semplice": "alzerà",
+            "futuro_anteriore": "avrà alzato"
+          },
+          "Tu": {
+            "presente": "alzi",
+            "passato_prossimo": "hai alzato",
+            "passato_imperfetto": "alzavi",
+            "futuro_semplice": "alzerai",
+            "futuro_anteriore": "avrai alzato"
+          },
+          "Noi": {
+            "presente": "alziamo",
+            "passato_prossimo": "abbiamo alzato",
+            "passato_imperfetto": "alzavamo",
+            "futuro_semplice": "alzeremo",
+            "futuro_anteriore": "avremo alzato"
+          }
+        }
       },
       {
         "infinitive": "amare",
         "translation": "amar",
-        "passato_prossimo": "ho amato",
-        "passato_imperfetto": "amavo",
-        "futuro_semplice": "amerò",
-        "futuro_anteriore": "avrò amato"
+        "persona": {
+          "Io": {
+            "presente": "amo",
+            "passato_prossimo": "ho amato",
+            "passato_imperfetto": "amavo",
+            "futuro_semplice": "amerò",
+            "futuro_anteriore": "avrò amato"
+          },
+          "Lui/Lei": {
+            "presente": "ama",
+            "passato_prossimo": "ha amato",
+            "passato_imperfetto": "amava",
+            "futuro_semplice": "amerà",
+            "futuro_anteriore": "avrà amato"
+          },
+          "Tu": {
+            "presente": "ami",
+            "passato_prossimo": "hai amato",
+            "passato_imperfetto": "amavi",
+            "futuro_semplice": "amerai",
+            "futuro_anteriore": "avrai amato"
+          },
+          "Noi": {
+            "presente": "amiamo",
+            "passato_prossimo": "abbiamo amato",
+            "passato_imperfetto": "amavamo",
+            "futuro_semplice": "ameremo",
+            "futuro_anteriore": "avremo amato"
+          }
+        }
       },
       {
         "infinitive": "andare",
         "translation": "ir",
-        "passato_prossimo": "sono andato",
-        "passato_imperfetto": "andavo",
-        "futuro_semplice": "andrò",
-        "futuro_anteriore": "sarò andato"
+        "persona": {
+          "Io": {
+            "presente": "vado",
+            "passato_prossimo": "sono andato/a",
+            "passato_imperfetto": "andavo",
+            "futuro_semplice": "andrò",
+            "futuro_anteriore": "sarò andato/a"
+          },
+          "Lui/Lei": {
+            "presente": "va",
+            "passato_prossimo": "è andato/a",
+            "passato_imperfetto": "andava",
+            "futuro_semplice": "andrà",
+            "futuro_anteriore": "sarà andato/a"
+          },
+          "Tu": {
+            "presente": "vai",
+            "passato_prossimo": "sei andato/a",
+            "passato_imperfetto": "andavi",
+            "futuro_semplice": "andrà",
+            "futuro_anteriore": "sarai andato/a"
+          },
+          "Noi": {
+            "presente": "andiamo",
+            "passato_prossimo": "siamo andati/e",
+            "passato_imperfetto": "andavamo",
+            "futuro_semplice": "andremo",
+            "futuro_anteriore": "saremo andati/e"
+          }
+        }
       },
       {
         "infinitive": "apparire",
         "translation": "aparecer",
-        "passato_prossimo": "sono apparso",
-        "passato_imperfetto": "apparivo",
-        "futuro_semplice": "apparirò",
-        "futuro_anteriore": "sarò apparso"
+        "persona": {
+          "Io": {
+            "presente": "appare",
+            "passato_prossimo": "ho apparito",
+            "passato_imperfetto": "apparivo",
+            "futuro_semplice": "apparirò",
+            "futuro_anteriore": "avrò apparito"
+          },
+          "Lui/Lei": {
+            "presente": "appare",
+            "passato_prossimo": "ha apparito",
+            "passato_imperfetto": "appariva",
+            "futuro_semplice": "apparirà",
+            "futuro_anteriore": "avrà apparito"
+          },
+          "Tu": {
+            "presente": "appari",
+            "passato_prossimo": "hai apparito",
+            "passato_imperfetto": "apparivi",
+            "futuro_semplice": "apparirai",
+            "futuro_anteriore": "avrai apparito"
+          },
+          "Noi": {
+            "presente": "appariamo",
+            "passato_prossimo": "abbiamo apparito",
+            "passato_imperfetto": "apparivamo",
+            "futuro_semplice": "appariremo",
+            "futuro_anteriore": "avremo apparito"
+          }
+        }
       },
       {
         "infinitive": "aprire",
         "translation": "abrir",
-        "passato_prossimo": "ho aperto",
-        "passato_imperfetto": "aprivo",
-        "futuro_semplice": "aprirò",
-        "futuro_anteriore": "avrò aperto"
+        "persona": {
+          "Io": {
+            "presente": "apro",
+            "passato_prossimo": "ho aperto",
+            "passato_imperfetto": "aprivo",
+            "futuro_semplice": "aprirò",
+            "futuro_anteriore": "avrò aperto"
+          },
+          "Lui/Lei": {
+            "presente": "apre",
+            "passato_prossimo": "ha aperto",
+            "passato_imperfetto": "apriva",
+            "futuro_semplice": "aprirà",
+            "futuro_anteriore": "avrà aperto"
+          },
+          "Tu": {
+            "presente": "apri",
+            "passato_prossimo": "hai aperto",
+            "passato_imperfetto": "aprivi",
+            "futuro_semplice": "aprirai",
+            "futuro_anteriore": "avrai aperto"
+          },
+          "Noi": {
+            "presente": "apriamo",
+            "passato_prossimo": "abbiamo aperto",
+            "passato_imperfetto": "aprivamo",
+            "futuro_semplice": "apriremo",
+            "futuro_anteriore": "avremo aperto"
+          }
+        }
       },
       {
         "infinitive": "arrivare",
         "translation": "llegar",
-        "passato_prossimo": "sono arrivato",
-        "passato_imperfetto": "arrivavo",
-        "futuro_semplice": "arriverò",
-        "futuro_anteriore": "sarò arrivato"
+        "persona": {
+          "Io": {
+            "presente": "arrivo",
+            "passato_prossimo": "sono arrivato/a",
+            "passato_imperfetto": "arrivavo",
+            "futuro_semplice": "arriverò",
+            "futuro_anteriore": "sarò arrivato/a"
+          },
+          "Lui/Lei": {
+            "presente": "arriva",
+            "passato_prossimo": "è arrivato/a",
+            "passato_imperfetto": "arrivava",
+            "futuro_semplice": "arriverà",
+            "futuro_anteriore": "sarà arrivato/a"
+          },
+          "Tu": {
+            "presente": "arrivi",
+            "passato_prossimo": "sei arrivato/a",
+            "passato_imperfetto": "arrivavi",
+            "futuro_semplice": "arriverai",
+            "futuro_anteriore": "sarai arrivato/a"
+          },
+          "Noi": {
+            "presente": "arriviamo",
+            "passato_prossimo": "siamo arrivati/e",
+            "passato_imperfetto": "arrivavamo",
+            "futuro_semplice": "arriveremo",
+            "futuro_anteriore": "saremo arrivati/e"
+          }
+        }
       },
       {
         "infinitive": "ascoltare",
         "translation": "escuchar",
-        "passato_prossimo": "ho ascoltato",
-        "passato_imperfetto": "ascoltavo",
-        "futuro_semplice": "ascolterò",
-        "futuro_anteriore": "avrò ascoltato"
+        "persona": {
+          "Io": {
+            "presente": "ascolto",
+            "passato_prossimo": "ho ascoltato",
+            "passato_imperfetto": "ascoltavo",
+            "futuro_semplice": "ascolterò",
+            "futuro_anteriore": "avrò ascoltato"
+          },
+          "Lui/Lei": {
+            "presente": "ascolta",
+            "passato_prossimo": "ha ascoltato",
+            "passato_imperfetto": "ascoltava",
+            "futuro_semplice": "ascolterà",
+            "futuro_anteriore": "avrà ascoltato"
+          },
+          "Tu": {
+            "presente": "ascolti",
+            "passato_prossimo": "hai ascoltato",
+            "passato_imperfetto": "ascoltavi",
+            "futuro_semplice": "ascolterai",
+            "futuro_anteriore": "avrai ascoltato"
+          },
+          "Noi": {
+            "presente": "ascoltiamo",
+            "passato_prossimo": "abbiamo ascoltato",
+            "passato_imperfetto": "ascoltavamo",
+            "futuro_semplice": "ascolteremo",
+            "futuro_anteriore": "avremo ascoltato"
+          }
+        }
       },
       {
         "infinitive": "aspettare",
         "translation": "esperar",
-        "passato_prossimo": "ho aspettato",
-        "passato_imperfetto": "aspettavo",
-        "futuro_semplice": "aspetterò",
-        "futuro_anteriore": "avrò aspettato"
+        "persona": {
+          "Io": {
+            "presente": "aspetto",
+            "passato_prossimo": "ho aspettato",
+            "passato_imperfetto": "aspettavo",
+            "futuro_semplice": "aspetterò",
+            "futuro_anteriore": "avrò aspettato"
+          },
+          "Lui/Lei": {
+            "presente": "aspetta",
+            "passato_prossimo": "ha aspettato",
+            "passato_imperfetto": "aspettava",
+            "futuro_semplice": "aspetterà",
+            "futuro_anteriore": "avrà aspettato"
+          },
+          "Tu": {
+            "presente": "aspetti",
+            "passato_prossimo": "hai aspettato",
+            "passato_imperfetto": "aspettavi",
+            "futuro_semplice": "aspetterai",
+            "futuro_anteriore": "avrai aspettato"
+          },
+          "Noi": {
+            "presente": "aspettiamo",
+            "passato_prossimo": "abbiamo aspettato",
+            "passato_imperfetto": "aspettavamo",
+            "futuro_semplice": "aspetteremo",
+            "futuro_anteriore": "avremo aspettato"
+          }
+        }
       },
       {
         "infinitive": "avere",
         "translation": "tener",
-        "passato_prossimo": "ho avuto",
-        "passato_imperfetto": "avevo",
-        "futuro_semplice": "avrò",
-        "futuro_anteriore": "avrò avuto"
+        "persona": {
+          "Io": {
+            "presente": "ho",
+            "passato_prossimo": "ho tenuto",
+            "passato_imperfetto": "avevo",
+            "futuro_semplice": "avrò",
+            "futuro_anteriore": "avrò tenuto"
+          },
+          "Lui/Lei": {
+            "presente": "ha",
+            "passato_prossimo": "ha tenuto",
+            "passato_imperfetto": "aveva",
+            "futuro_semplice": "avrà",
+            "futuro_anteriore": "avrà tenuto"
+          },
+          "Tu": {
+            "presente": "hai",
+            "passato_prossimo": "hai tenuto",
+            "passato_imperfetto": "avevi",
+            "futuro_semplice": "avrai",
+            "futuro_anteriore": "avrai tenuto"
+          },
+          "Noi": {
+            "presente": "abbiamo",
+            "passato_prossimo": "abbiamo tenuto",
+            "passato_imperfetto": "avevamo",
+            "futuro_semplice": "avremo",
+            "futuro_anteriore": "avremo tenuto"
+          }
+        }
       },
       {
         "infinitive": "bere",
         "translation": "beber",
-        "passato_prossimo": "ho bevuto",
-        "passato_imperfetto": "bevevo",
-        "futuro_semplice": "berò",
-        "futuro_anteriore": "avrò bevuto"
+        "persona": {
+          "Io": {
+            "presente": "bevo",
+            "passato_prossimo": "ho bevuto",
+            "passato_imperfetto": "bevevo",
+            "futuro_semplice": "berrò",
+            "futuro_anteriore": "avrò bevuto"
+          },
+          "Lui/Lei": {
+            "presente": "beve",
+            "passato_prossimo": "ha bevuto",
+            "passato_imperfetto": "beveva",
+            "futuro_semplice": "berà",
+            "futuro_anteriore": "avrà bevuto"
+          },
+          "Tu": {
+            "presente": "bevi",
+            "passato_prossimo": "hai bevuto",
+            "passato_imperfetto": "bevevi",
+            "futuro_semplice": "berrai",
+            "futuro_anteriore": "avrai bevuto"
+          },
+          "Noi": {
+            "presente": "beviamo",
+            "passato_prossimo": "abbiamo bevuto",
+            "passato_imperfetto": "bevevamo",
+            "futuro_semplice": "beremo",
+            "futuro_anteriore": "avremo bevuto"
+          }
+        }
       },
       {
         "infinitive": "cadere",
         "translation": "caer",
-        "passato_prossimo": "sono caduto",
-        "passato_imperfetto": "cadevo",
-        "futuro_semplice": "cadrò",
-        "futuro_anteriore": "sarò caduto"
+        "persona": {
+          "Io": {
+            "presente": "cado",
+            "passato_prossimo": "sono caduto/a",
+            "passato_imperfetto": "cadevo",
+            "futuro_semplice": "cadro",
+            "futuro_anteriore": "sarò caduto/a"
+          },
+          "Lui/Lei": {
+            "presente": "cade",
+            "passato_prossimo": "è caduto/a",
+            "passato_imperfetto": "cadeva",
+            "futuro_semplice": "cadrà",
+            "futuro_anteriore": "sarà caduto/a"
+          },
+          "Tu": {
+            "presente": "cadi",
+            "passato_prossimo": "sei caduto/a",
+            "passato_imperfetto": "cadevi",
+            "futuro_semplice": "cadrai",
+            "futuro_anteriore": "sarai caduto/a"
+          },
+          "Noi": {
+            "presente": "cadiamo",
+            "passato_prossimo": "siamo caduti/e",
+            "passato_imperfetto": "cadevamo",
+            "futuro_semplice": "cadremo",
+            "futuro_anteriore": "saremo caduti/e"
+          }
+        }
       },
       {
         "infinitive": "cambiare",
         "translation": "cambiar",
-        "passato_prossimo": "ho cambiato",
-        "passato_imperfetto": "cambiavo",
-        "futuro_semplice": "cambierò",
-        "futuro_anteriore": "avrò cambiato"
+        "persona": {
+          "Io": {
+            "presente": "cambio",
+            "passato_prossimo": "ho cambiato",
+            "passato_imperfetto": "cambiavo",
+            "futuro_semplice": "cambierò",
+            "futuro_anteriore": "avrò cambiato"
+          },
+          "Lui/Lei": {
+            "presente": "cambia",
+            "passato_prossimo": "ha cambiato",
+            "passato_imperfetto": "cambiava",
+            "futuro_semplice": "cambierà",
+            "futuro_anteriore": "avrà cambiato"
+          },
+          "Tu": {
+            "presente": "cambi",
+            "passato_prossimo": "hai cambiato",
+            "passato_imperfetto": "cambiavi",
+            "futuro_semplice": "cambierai",
+            "futuro_anteriore": "avrai cambiato"
+          },
+          "Noi": {
+            "presente": "cambiamo",
+            "passato_prossimo": "abbiamo cambiato",
+            "passato_imperfetto": "cambiavamo",
+            "futuro_semplice": "cambieremo",
+            "futuro_anteriore": "avremo cambiato"
+          }
+        }
       },
       {
         "infinitive": "camminare",
         "translation": "caminar",
-        "passato_prossimo": "ho camminato",
-        "passato_imperfetto": "camminavo",
-        "futuro_semplice": "camminerò",
-        "futuro_anteriore": "avrò camminato"
+        "persona": {
+          "Io": {
+            "presente": "cammino",
+            "passato_prossimo": "ho camminato",
+            "passato_imperfetto": "camminavo",
+            "futuro_semplice": "camminerò",
+            "futuro_anteriore": "avrò camminato"
+          },
+          "Lui/Lei": {
+            "presente": "cammina",
+            "passato_prossimo": "ha camminato",
+            "passato_imperfetto": "camminava",
+            "futuro_semplice": "camminerà",
+            "futuro_anteriore": "avrà camminato"
+          },
+          "Tu": {
+            "presente": "cammini",
+            "passato_prossimo": "hai camminato",
+            "passato_imperfetto": "camminavi",
+            "futuro_semplice": "camminerai",
+            "futuro_anteriore": "avrai camminato"
+          },
+          "Noi": {
+            "presente": "camminiamo",
+            "passato_prossimo": "abbiamo camminato",
+            "passato_imperfetto": "camminavamo",
+            "futuro_semplice": "cammineremo",
+            "futuro_anteriore": "avremo camminato"
+          }
+        }
       },
       {
         "infinitive": "cantare",
         "translation": "cantar",
-        "passato_prossimo": "ho cantato",
-        "passato_imperfetto": "cantavo",
-        "futuro_semplice": "canterò",
-        "futuro_anteriore": "avrò cantato"
+        "persona": {
+          "Io": {
+            "presente": "canto",
+            "passato_prossimo": "ho cantato",
+            "passato_imperfetto": "cantavo",
+            "futuro_semplice": "canterò",
+            "futuro_anteriore": "avrò cantato"
+          },
+          "Lui/Lei": {
+            "presente": "canta",
+            "passato_prossimo": "ha cantato",
+            "passato_imperfetto": "cantava",
+            "futuro_semplice": "canterà",
+            "futuro_anteriore": "avrà cantato"
+          },
+          "Tu": {
+            "presente": "canti",
+            "passato_prossimo": "hai cantato",
+            "passato_imperfetto": "cantavi",
+            "futuro_semplice": "canterai",
+            "futuro_anteriore": "avrai cantato"
+          },
+          "Noi": {
+            "presente": "cantiamo",
+            "passato_prossimo": "abbiamo cantato",
+            "passato_imperfetto": "cantavamo",
+            "futuro_semplice": "canteremo",
+            "futuro_anteriore": "avremo cantato"
+          }
+        }
       },
       {
         "infinitive": "capire",
         "translation": "entender",
-        "passato_prossimo": "ho capito",
-        "passato_imperfetto": "capivo",
-        "futuro_semplice": "capirò",
-        "futuro_anteriore": "avrò capito"
+        "persona": {
+          "Io": {
+            "presente": "capisco",
+            "passato_prossimo": "ho capito",
+            "passato_imperfetto": "capivo",
+            "futuro_semplice": "capirò",
+            "futuro_anteriore": "avrò capito"
+          },
+          "Lui/Lei": {
+            "presente": "capisce",
+            "passato_prossimo": "ha capito",
+            "passato_imperfetto": "capiva",
+            "futuro_semplice": "capirà",
+            "futuro_anteriore": "avrà capito"
+          },
+          "Tu": {
+            "presente": "capisci",
+            "passato_prossimo": "hai capito",
+            "passato_imperfetto": "capivi",
+            "futuro_semplice": "capirai",
+            "futuro_anteriore": "avrai capito"
+          },
+          "Noi": {
+            "presente": "capiamo",
+            "passato_prossimo": "abbiamo capito",
+            "passato_imperfetto": "capivamo",
+            "futuro_semplice": "capiremo",
+            "futuro_anteriore": "avremo capito"
+          }
+        }
       },
       {
         "infinitive": "cercare",
         "translation": "buscar",
-        "passato_prossimo": "ho cercato",
-        "passato_imperfetto": "cercavo",
-        "futuro_semplice": "cercherò",
-        "futuro_anteriore": "avrò cercato"
+        "persona": {
+          "Io": {
+            "presente": "cerco",
+            "passato_prossimo": "ho cercato",
+            "passato_imperfetto": "cercavo",
+            "futuro_semplice": "cercherò",
+            "futuro_anteriore": "avrò cercato"
+          },
+          "Lui/Lei": {
+            "presente": "cerca",
+            "passato_prossimo": "ha cercato",
+            "passato_imperfetto": "cercava",
+            "futuro_semplice": "cercherà",
+            "futuro_anteriore": "avrà cercato"
+          },
+          "Tu": {
+            "presente": "cerchi",
+            "passato_prossimo": "hai cercato",
+            "passato_imperfetto": "cercavi",
+            "futuro_semplice": "cercherai",
+            "futuro_anteriore": "avrai cercato"
+          },
+          "Noi": {
+            "presente": "cerchiamo",
+            "passato_prossimo": "abbiamo cercato",
+            "passato_imperfetto": "cercavamo",
+            "futuro_semplice": "cercheremo",
+            "futuro_anteriore": "avremo cercato"
+          }
+        }
       },
       {
         "infinitive": "chiamare",
         "translation": "llamar",
-        "passato_prossimo": "ho chiamato",
-        "passato_imperfetto": "chiamavo",
-        "futuro_semplice": "chiamerò",
-        "futuro_anteriore": "avrò chiamato"
+        "persona": {
+          "Io": {
+            "presente": "chiamo",
+            "passato_prossimo": "ho chiamato",
+            "passato_imperfetto": "chiamavo",
+            "futuro_semplice": "chiamerò",
+            "futuro_anteriore": "avrò chiamato"
+          },
+          "Lui/Lei": {
+            "presente": "chiama",
+            "passato_prossimo": "ha chiamato",
+            "passato_imperfetto": "chiamaa",
+            "futuro_semplice": "chiamerà",
+            "futuro_anteriore": "avrà chiamato"
+          },
+          "Tu": {
+            "presente": "chiami",
+            "passato_prossimo": "hai chiamato",
+            "passato_imperfetto": "chiamavi",
+            "futuro_semplice": "chiamerai",
+            "futuro_anteriore": "avrai chiamato"
+          },
+          "Noi": {
+            "presente": "chiamiamo",
+            "passato_prossimo": "abbiamo chiamato",
+            "passato_imperfetto": "chiamavamo",
+            "futuro_semplice": "chiameremo",
+            "futuro_anteriore": "avremo chiamato"
+          }
+        }
       },
       {
         "infinitive": "chiedere",
-        "translation": "pedir",
-        "passato_prossimo": "ho chiesto",
-        "passato_imperfetto": "chiedevo",
-        "futuro_semplice": "chiederò",
-        "futuro_anteriore": "avrò chiesto"
+        "translation": "preguntar",
+        "persona": {
+          "Io": {
+            "presente": "chiedo",
+            "passato_prossimo": "ho chiesto",
+            "passato_imperfetto": "chiedevo",
+            "futuro_semplice": "chiederò",
+            "futuro_anteriore": "avrò chiesto"
+          },
+          "Lui/Lei": {
+            "presente": "chiede",
+            "passato_prossimo": "ha chiesto",
+            "passato_imperfetto": "chiedeva",
+            "futuro_semplice": "chiederà",
+            "futuro_anteriore": "avrà chiesto"
+          },
+          "Tu": {
+            "presente": "chiedi",
+            "passato_prossimo": "hai chiesto",
+            "passato_imperfetto": "chiedevi",
+            "futuro_semplice": "chiederai",
+            "futuro_anteriore": "avrai chiesto"
+          },
+          "Noi": {
+            "presente": "chiediamo",
+            "passato_prossimo": "abbiamo chiesto",
+            "passato_imperfetto": "chiedevamo",
+            "futuro_semplice": "chiederemo",
+            "futuro_anteriore": "avremo chiesto"
+          }
+        }
       },
       {
         "infinitive": "chiudere",
         "translation": "cerrar",
-        "passato_prossimo": "ho chiuso",
-        "passato_imperfetto": "chiudevo",
-        "futuro_semplice": "chiuderò",
-        "futuro_anteriore": "avrò chiuso"
+        "persona": {
+          "Io": {
+            "presente": "chiudo",
+            "passato_prossimo": "ho chiuso",
+            "passato_imperfetto": "chiudevo",
+            "futuro_semplice": "chiuderò",
+            "futuro_anteriore": "avrò chiuso"
+          },
+          "Lui/Lei": {
+            "presente": "chiude",
+            "passato_prossimo": "ha chiuso",
+            "passato_imperfetto": "chiudeva",
+            "futuro_semplice": "chiuderà",
+            "futuro_anteriore": "avrà chiuso"
+          },
+          "Tu": {
+            "presente": "chiudi",
+            "passato_prossimo": "hai chiuso",
+            "passato_imperfetto": "chiudevhi",
+            "futuro_semplice": "chiuderai",
+            "futuro_anteriore": "avrai chiuso"
+          },
+          "Noi": {
+            "presente": "chiudiamo",
+            "passato_prossimo": "abbiamo chiuso",
+            "passato_imperfetto": "chiudevamo",
+            "futuro_semplice": "chiuderemo",
+            "futuro_anteriore": "avremo chiuso"
+          }
+        }
       },
       {
         "infinitive": "cominciare",
         "translation": "empezar",
-        "passato_prossimo": "ho cominciato",
-        "passato_imperfetto": "cominciavo",
-        "futuro_semplice": "comincerò",
-        "futuro_anteriore": "avrò cominciato"
+        "persona": {
+          "Io": {
+            "presente": "comincio",
+            "passato_prossimo": "ho cominciato",
+            "passato_imperfetto": "cominciavo",
+            "futuro_semplice": "comincerò",
+            "futuro_anteriore": "avrò cominciato"
+          },
+          "Lui/Lei": {
+            "presente": "comincia",
+            "passato_prossimo": "ha cominciato",
+            "passato_imperfetto": "cominciava",
+            "futuro_semplice": "comincerà",
+            "futuro_anteriore": "avrà cominciato"
+          },
+          "Tu": {
+            "presente": "cominci",
+            "passato_prossimo": "hai cominciato",
+            "passato_imperfetto": "cominciavi",
+            "futuro_semplice": "comincerai",
+            "futuro_anteriore": "avrai cominciato"
+          },
+          "Noi": {
+            "presente": "cominciamo",
+            "passato_prossimo": "abbiamo cominciato",
+            "passato_imperfetto": "cominciavamo",
+            "futuro_semplice": "cominceremo",
+            "futuro_anteriore": "avremo cominciato"
+          }
+        }
       },
       {
         "infinitive": "comprare",
         "translation": "comprar",
-        "passato_prossimo": "ho comprato",
-        "passato_imperfetto": "compravo",
-        "futuro_semplice": "comprerò",
-        "futuro_anteriore": "avrò comprato"
+        "persona": {
+          "Io": {
+            "presente": "compro",
+            "passato_prossimo": "ho comprato",
+            "passato_imperfetto": "compravo",
+            "futuro_semplice": "comprerò",
+            "futuro_anteriore": "avrò comprato"
+          },
+          "Lui/Lei": {
+            "presente": "compra",
+            "passato_prossimo": "ha comprato",
+            "passato_imperfetto": "comprava",
+            "futuro_semplice": "comprerà",
+            "futuro_anteriore": "avrà comprato"
+          },
+          "Tu": {
+            "presente": "compri",
+            "passato_prossimo": "hai comprato",
+            "passato_imperfetto": "compravi",
+            "futuro_semplice": "comprerai",
+            "futuro_anteriore": "avrai comprato"
+          },
+          "Noi": {
+            "presente": "compramo",
+            "passato_prossimo": "abbiamo comprato",
+            "passato_imperfetto": "compravamo",
+            "futuro_semplice": "compreremo",
+            "futuro_anteriore": "avremo comprato"
+          }
+        }
       },
       {
         "infinitive": "conoscere",
         "translation": "conocer",
-        "passato_prossimo": "ho conosciuto",
-        "passato_imperfetto": "conoscevo",
-        "futuro_semplice": "conoscerò",
-        "futuro_anteriore": "avrò conosciuto"
+        "persona": {
+          "Io": {
+            "presente": "conosco",
+            "passato_prossimo": "ho conosciuto",
+            "passato_imperfetto": "conoscevo",
+            "futuro_semplice": "conoscerò",
+            "futuro_anteriore": "avrò conosciuto"
+          },
+          "Lui/Lei": {
+            "presente": "conosce",
+            "passato_prossimo": "ha conosciuto",
+            "passato_imperfetto": "conosceva",
+            "futuro_semplice": "conoscerà",
+            "futuro_anteriore": "avrà conosciuto"
+          },
+          "Tu": {
+            "presente": "conosci",
+            "passato_prossimo": "hai conosciuto",
+            "passato_imperfetto": "conoscevi",
+            "futuro_semplice": "conoscerai",
+            "futuro_anteriore": "avrai conosciuto"
+          },
+          "Noi": {
+            "presente": "conosciamo",
+            "passato_prossimo": "abbiamo conosciuto",
+            "passato_imperfetto": "conoscevamo",
+            "futuro_semplice": "conosceremo",
+            "futuro_anteriore": "avremo conosciuto"
+          }
+        }
       },
       {
         "infinitive": "correre",
         "translation": "correr",
-        "passato_prossimo": "ho corso",
-        "passato_imperfetto": "correvo",
-        "futuro_semplice": "correrò",
-        "futuro_anteriore": "avrò corso"
+        "persona": {
+          "Io": {
+            "presente": "corro",
+            "passato_prossimo": "sono corso/a",
+            "passato_imperfetto": "correvo",
+            "futuro_semplice": "correrò",
+            "futuro_anteriore": "sarò corso/a"
+          },
+          "Lui/Lei": {
+            "presente": "corre",
+            "passato_prossimo": "è corso/a",
+            "passato_imperfetto": "correva",
+            "futuro_semplice": "correrà",
+            "futuro_anteriore": "sarà corso/a"
+          },
+          "Tu": {
+            "presente": "corri",
+            "passato_prossimo": "sei corso/a",
+            "passato_imperfetto": "correvi",
+            "futuro_semplice": "correrai",
+            "futuro_anteriore": "sarai corso/a"
+          },
+          "Noi": {
+            "presente": "corriamo",
+            "passato_prossimo": "siamo corso/a",
+            "passato_imperfetto": "correvamo",
+            "futuro_semplice": "correremo",
+            "futuro_anteriore": "saremo corso/a"
+          }
+        }
       },
       {
         "infinitive": "credere",
         "translation": "creer",
-        "passato_prossimo": "ho creduto",
-        "passato_imperfetto": "credevo",
-        "futuro_semplice": "crederò",
-        "futuro_anteriore": "avrò creduto"
+        "persona": {
+          "Io": {
+            "presente": "credo",
+            "passato_prossimo": "ho creduto",
+            "passato_imperfetto": "credevo",
+            "futuro_semplice": "crederò",
+            "futuro_anteriore": "avrò creduto"
+          },
+          "Lui/Lei": {
+            "presente": "crede",
+            "passato_prossimo": "ha creduto",
+            "passato_imperfetto": "credeva",
+            "futuro_semplice": "crederà",
+            "futuro_anteriore": "avrà creduto"
+          },
+          "Tu": {
+            "presente": "credi",
+            "passato_prossimo": "hai creduto",
+            "passato_imperfetto": "credevi",
+            "futuro_semplice": "crederai",
+            "futuro_anteriore": "avrai creduto"
+          },
+          "Noi": {
+            "presente": "crediamo",
+            "passato_prossimo": "abbiamo creduto",
+            "passato_imperfetto": "credevamo",
+            "futuro_semplice": "crederemo",
+            "futuro_anteriore": "avremo creduto"
+          }
+        }
       },
       {
         "infinitive": "crescere",
         "translation": "crecer",
-        "passato_prossimo": "ho cresciuto",
-        "passato_imperfetto": "crescevo",
-        "futuro_semplice": "crescerò",
-        "futuro_anteriore": "avrò cresciuto"
+        "persona": {
+          "Io": {
+            "presente": "cresco",
+            "passato_prossimo": "ho cresciuto",
+            "passato_imperfetto": "crescevo",
+            "futuro_semplice": "crescerò",
+            "futuro_anteriore": "avrò cresciuto"
+          },
+          "Lui/Lei": {
+            "presente": "cresce",
+            "passato_prossimo": "ha cresciuto",
+            "passato_imperfetto": "cresceva",
+            "futuro_semplice": "crescerà",
+            "futuro_anteriore": "avrà cresciuto"
+          },
+          "Tu": {
+            "presente": "cresci",
+            "passato_prossimo": "hai cresciuto",
+            "passato_imperfetto": "crescevi",
+            "futuro_semplice": "crescerai",
+            "futuro_anteriore": "avrai cresciuto"
+          },
+          "Noi": {
+            "presente": "cresciamo",
+            "passato_prossimo": "abbiamo cresciuto",
+            "passato_imperfetto": "crescevamo",
+            "futuro_semplice": "cresceremo",
+            "futuro_anteriore": "avremo cresciuto"
+          }
+        }
       },
       {
         "infinitive": "cuocere",
         "translation": "cocer",
-        "passato_prossimo": "ho cotto",
-        "passato_imperfetto": "cucevo",
-        "futuro_semplice": "cucirò",
-        "futuro_anteriore": "avrò cotto"
+        "persona": {
+          "Io": {
+            "presente": "cuocio",
+            "passato_prossimo": "ho cotto",
+            "passato_imperfetto": "cuocevo",
+            "futuro_semplice": "cucirò",
+            "futuro_anteriore": "avrò cotto"
+          },
+          "Lui/Lei": {
+            "presente": "cuoce",
+            "passato_prossimo": "ha cotto",
+            "passato_imperfetto": "cuoceva",
+            "futuro_semplice": "cucirà",
+            "futuro_anteriore": "avrà cotto"
+          },
+          "Tu": {
+            "presente": "cuoci",
+            "passato_prossimo": "hai cotto",
+            "passato_imperfetto": "cuocevi",
+            "futuro_semplice": "cucirai",
+            "futuro_anteriore": "avrai cotto"
+          },
+          "Noi": {
+            "presente": "cuociamo",
+            "passato_prossimo": "abbiamo cotto",
+            "passato_imperfetto": "cuocevamo",
+            "futuro_semplice": "cuciremo",
+            "futuro_anteriore": "avremo cotto"
+          }
+        }
       },
       {
         "infinitive": "dare",
         "translation": "dar",
-        "passato_prossimo": "ho dato",
-        "passato_imperfetto": "davo",
-        "futuro_semplice": "darò",
-        "futuro_anteriore": "avrò dato"
+        "persona": {
+          "Io": {
+            "presente": "do",
+            "passato_prossimo": "ho dato",
+            "passato_imperfetto": "davo",
+            "futuro_semplice": "darò",
+            "futuro_anteriore": "avrò dato"
+          },
+          "Lui/Lei": {
+            "presente": "dà",
+            "passato_prossimo": "ha dato",
+            "passato_imperfetto": "dava",
+            "futuro_semplice": "darà",
+            "futuro_anteriore": "avrà dato"
+          },
+          "Tu": {
+            "presente": "dai",
+            "passato_prossimo": "hai dato",
+            "passato_imperfetto": "davi",
+            "futuro_semplice": "darai",
+            "futuro_anteriore": "avrai dato"
+          },
+          "Noi": {
+            "presente": "diamo",
+            "passato_prossimo": "abbiamo dato",
+            "passato_imperfetto": "davamo",
+            "futuro_semplice": "daremo",
+            "futuro_anteriore": "avremo dato"
+          }
+        }
       },
       {
         "infinitive": "decidere",
         "translation": "decidir",
-        "passato_prossimo": "ho deciso",
-        "passato_imperfetto": "decidevo",
-        "futuro_semplice": "deciderò",
-        "futuro_anteriore": "avrò deciso"
+        "persona": {
+          "Io": {
+            "presente": "decido",
+            "passato_prossimo": "ho deciso",
+            "passato_imperfetto": "decidevo",
+            "futuro_semplice": "deciderò",
+            "futuro_anteriore": "avrò deciso"
+          },
+          "Lui/Lei": {
+            "presente": "decide",
+            "passato_prossimo": "ha deciso",
+            "passato_imperfetto": "decideva",
+            "futuro_semplice": "deciderà",
+            "futuro_anteriore": "avrà deciso"
+          },
+          "Tu": {
+            "presente": "decidi",
+            "passato_prossimo": "hai deciso",
+            "passato_imperfetto": "decidevi",
+            "futuro_semplice": "deciderai",
+            "futuro_anteriore": "avrai deciso"
+          },
+          "Noi": {
+            "presente": "decidiamo",
+            "passato_prossimo": "abbiamo deciso",
+            "passato_imperfetto": "decidevamo",
+            "futuro_semplice": "decideremo",
+            "futuro_anteriore": "avremo deciso"
+          }
+        }
       },
       {
         "infinitive": "dimenticare",
         "translation": "olvidar",
-        "passato_prossimo": "ho dimenticato",
-        "passato_imperfetto": "dimenticavo",
-        "futuro_semplice": "dimenticherò",
-        "futuro_anteriore": "avrò dimenticato"
+        "persona": {
+          "Io": {
+            "presente": "dimentico",
+            "passato_prossimo": "ho dimenticato",
+            "passato_imperfetto": "dimenticavo",
+            "futuro_semplice": "dimenticherò",
+            "futuro_anteriore": "avrò dimenticato"
+          },
+          "Lui/Lei": {
+            "presente": "dimentica",
+            "passato_prossimo": "ha dimenticato",
+            "passato_imperfetto": "dimenticava",
+            "futuro_semplice": "dimenticherà",
+            "futuro_anteriore": "avrà dimenticato"
+          },
+          "Tu": {
+            "presente": "dimentichi",
+            "passato_prossimo": "hai dimenticato",
+            "passato_imperfetto": "dimenticavi",
+            "futuro_semplice": "dimenticherai",
+            "futuro_anteriore": "avrai dimenticato"
+          },
+          "Noi": {
+            "presente": "dimentichiamo",
+            "passato_prossimo": "abbiamo dimenticato",
+            "passato_imperfetto": "dimenticavamo",
+            "futuro_semplice": "dimenticheremo",
+            "futuro_anteriore": "avremo dimenticato"
+          }
+        }
       },
       {
         "infinitive": "dire",
         "translation": "decir",
-        "passato_prossimo": "ho detto",
-        "passato_imperfetto": "dicevo",
-        "futuro_semplice": "dirò",
-        "futuro_anteriore": "avrò detto"
+        "persona": {
+          "Io": {
+            "presente": "dico",
+            "passato_prossimo": "ho detto",
+            "passato_imperfetto": "dicevo",
+            "futuro_semplice": "dirò",
+            "futuro_anteriore": "avrò detto"
+          },
+          "Lui/Lei": {
+            "presente": "dice",
+            "passato_prossimo": "ha detto",
+            "passato_imperfetto": "diceva",
+            "futuro_semplice": "dirà",
+            "futuro_anteriore": "avrà detto"
+          },
+          "Tu": {
+            "presente": "dici",
+            "passato_prossimo": "hai detto",
+            "passato_imperfetto": "dicevi",
+            "futuro_semplice": "dirai",
+            "futuro_anteriore": "avrai detto"
+          },
+          "Noi": {
+            "presente": "diciamo",
+            "passato_prossimo": "abbiamo detto",
+            "passato_imperfetto": "dicevamo",
+            "futuro_semplice": "diremo",
+            "futuro_anteriore": "avremo detto"
+          }
+        }
       },
       {
         "infinitive": "diventare",
         "translation": "convertirse",
-        "passato_prossimo": "sono diventato",
-        "passato_imperfetto": "diventavo",
-        "futuro_semplice": "diventerò",
-        "futuro_anteriore": "sarò diventato"
+        "persona": {
+          "Io": {
+            "presente": "divento",
+            "passato_prossimo": "sono diventato/a",
+            "passato_imperfetto": "diventavo",
+            "futuro_semplice": "diventerò",
+            "futuro_anteriore": "sarò diventato/a"
+          },
+          "Lui/Lei": {
+            "presente": "diventa",
+            "passato_prossimo": "è diventato/a",
+            "passato_imperfetto": "diventava",
+            "futuro_semplice": "diventerà",
+            "futuro_anteriore": "sarà diventato/a"
+          },
+          "Tu": {
+            "presente": "diventi",
+            "passato_prossimo": "sei diventato/a",
+            "passato_imperfetto": "diventavi",
+            "futuro_semplice": "diventerai",
+            "futuro_anteriore": "sarai diventato/a"
+          },
+          "Noi": {
+            "presente": "diventiamo",
+            "passato_prossimo": "siamo diventati/e",
+            "passato_imperfetto": "diventavamo",
+            "futuro_semplice": "diventeremo",
+            "futuro_anteriore": "saremo diventati/e"
+          }
+        }
       },
       {
         "infinitive": "divertire",
-        "translation": "divertir",
-        "passato_prossimo": "mi sono divertito",
-        "passato_imperfetto": "mi divertivo",
-        "futuro_semplice": "mi divertirò",
-        "futuro_anteriore": "mi sarò divertito"
+        "translation": "divertirse",
+        "persona": {
+          "Io": {
+            "presente": "diverto",
+            "passato_prossimo": "mi sono divertito/a",
+            "passato_imperfetto": "divertivo",
+            "futuro_semplice": "diverterò",
+            "futuro_anteriore": "mi sarò divertito/a"
+          },
+          "Lui/Lei": {
+            "presente": "diverte",
+            "passato_prossimo": "si è divertito/a",
+            "passato_imperfetto": "divertiva",
+            "futuro_semplice": "diverterà",
+            "futuro_anteriore": "si sarà divertito/a"
+          },
+          "Tu": {
+            "presente": "diverti",
+            "passato_prossimo": "ti sei divertito/a",
+            "passato_imperfetto": "divertivi",
+            "futuro_semplice": "diverterai",
+            "futuro_anteriore": "ti sarai divertito/a"
+          },
+          "Noi": {
+            "presente": "divertiamo",
+            "passato_prossimo": "ci siamo divertiti/e",
+            "passato_imperfetto": "divertivamo",
+            "futuro_semplice": "diverteremo",
+            "futuro_anteriore": "ci saremo divertiti/e"
+          }
+        }
       },
       {
         "infinitive": "dormire",
         "translation": "dormir",
-        "passato_prossimo": "ho dormito",
-        "passato_imperfetto": "dormivo",
-        "futuro_semplice": "dormirò",
-        "futuro_anteriore": "avrò dormito"
+        "persona": {
+          "Io": {
+            "presente": "dormo",
+            "passato_prossimo": "ho dormito",
+            "passato_imperfetto": "dormivo",
+            "futuro_semplice": "dormirò",
+            "futuro_anteriore": "avrò dormito"
+          },
+          "Lui/Lei": {
+            "presente": "dorme",
+            "passato_prossimo": "ha dormito",
+            "passato_imperfetto": "dormiva",
+            "futuro_semplice": "dormirà",
+            "futuro_anteriore": "avrà dormito"
+          },
+          "Tu": {
+            "presente": "dormi",
+            "passato_prossimo": "hai dormito",
+            "passato_imperfetto": "dormivi",
+            "futuro_semplice": "dormirai",
+            "futuro_anteriore": "avrai dormito"
+          },
+          "Noi": {
+            "presente": "dormiamo",
+            "passato_prossimo": "abbiamo dormito",
+            "passato_imperfetto": "dormivamo",
+            "futuro_semplice": "dormiremo",
+            "futuro_anteriore": "avremo dormito"
+          }
+        }
       },
       {
         "infinitive": "dovere",
         "translation": "deber",
-        "passato_prossimo": "ho dovuto",
-        "passato_imperfetto": "dovevo",
-        "futuro_semplice": "dovrò",
-        "futuro_anteriore": "avrò dovuto"
+        "persona": {
+          "Io": {
+            "presente": "devo",
+            "passato_prossimo": "ho dovuto",
+            "passato_imperfetto": "dovevo",
+            "futuro_semplice": "dovrò",
+            "futuro_anteriore": "avrò dovuto"
+          },
+          "Lui/Lei": {
+            "presente": "deve",
+            "passato_prossimo": "ha dovuto",
+            "passato_imperfetto": "doveva",
+            "futuro_semplice": "dovrà",
+            "futuro_anteriore": "avrà dovuto"
+          },
+          "Tu": {
+            "presente": "devi",
+            "passato_prossimo": "hai dovuto",
+            "passato_imperfetto": "dovevi",
+            "futuro_semplice": "dovrai",
+            "futuro_anteriore": "avrai dovuto"
+          },
+          "Noi": {
+            "presente": "dobbiamo",
+            "passato_prossimo": "abbiamo dovuto",
+            "passato_imperfetto": "dovevamo",
+            "futuro_semplice": "dovremo",
+            "futuro_anteriore": "avremo dovuto"
+          }
+        }
       },
       {
         "infinitive": "entrare",
         "translation": "entrar",
-        "passato_prossimo": "sono entrato",
-        "passato_imperfetto": "entravo",
-        "futuro_semplice": "entrerò",
-        "futuro_anteriore": "sarò entrato"
+        "persona": {
+          "Io": {
+            "presente": "entro",
+            "passato_prossimo": "sono entrato/a",
+            "passato_imperfetto": "entravo",
+            "futuro_semplice": "entrerò",
+            "futuro_anteriore": "sarò entrato/a"
+          },
+          "Lui/Lei": {
+            "presente": "entra",
+            "passato_prossimo": "è entrato/a",
+            "passato_imperfetto": "entrava",
+            "futuro_semplice": "entrerà",
+            "futuro_anteriore": "sarà entrato/a"
+          },
+          "Tu": {
+            "presente": "entri",
+            "passato_prossimo": "sei entrato/a",
+            "passato_imperfetto": "entravi",
+            "futuro_semplice": "entrerai",
+            "futuro_anteriore": "sarai entrato/a"
+          },
+          "Noi": {
+            "presente": "entriamo",
+            "passato_prossimo": "siamo entrati/e",
+            "passato_imperfetto": "entravamo",
+            "futuro_semplice": "entreremo",
+            "futuro_anteriore": "saremo entrati/e"
+          }
+        }
       },
       {
         "infinitive": "essere",
-        "translation": "ser",
-        "passato_prossimo": "sono stato",
-        "passato_imperfetto": "ero",
-        "futuro_semplice": "sarò",
-        "futuro_anteriore": "sarò stato"
+        "translation": "ser/estar",
+        "persona": {
+          "Io": {
+            "presente": "sono",
+            "passato_prossimo": "sono stato/a",
+            "passato_imperfetto": "ero",
+            "futuro_semplice": "sarò",
+            "futuro_anteriore": "sarò stato/a"
+          },
+          "Lui/Lei": {
+            "presente": "è",
+            "passato_prossimo": "è stato/a",
+            "passato_imperfetto": "era",
+            "futuro_semplice": "sarà",
+            "futuro_anteriore": "sarà stato/a"
+          },
+          "Tu": {
+            "presente": "sei",
+            "passato_prossimo": "sei stato/a",
+            "passato_imperfetto": "eri",
+            "futuro_semplice": "sarai",
+            "futuro_anteriore": "sarai stato/a"
+          },
+          "Noi": {
+            "presente": "siamo",
+            "passato_prossimo": "siamo stati/e",
+            "passato_imperfetto": "eravamo",
+            "futuro_semplice": "saremo",
+            "futuro_anteriore": "saremo stati/e"
+          }
+        }
       },
       {
         "infinitive": "fare",
         "translation": "hacer",
-        "passato_prossimo": "ho fatto",
-        "passato_imperfetto": "facevo",
-        "futuro_semplice": "farò",
-        "futuro_anteriore": "avrò fatto"
+        "persona": {
+          "Io": {
+            "presente": "faccio",
+            "passato_prossimo": "ho fatto",
+            "passato_imperfetto": "facevo",
+            "futuro_semplice": "farò",
+            "futuro_anteriore": "avrò fatto"
+          },
+          "Lui/Lei": {
+            "presente": "fa",
+            "passato_prossimo": "ha fatto",
+            "passato_imperfetto": "faceva",
+            "futuro_semplice": "farà",
+            "futuro_anteriore": "avrà fatto"
+          },
+          "Tu": {
+            "presente": "fai",
+            "passato_prossimo": "hai fatto",
+            "passato_imperfetto": "facevi",
+            "futuro_semplice": "farai",
+            "futuro_anteriore": "avrai fatto"
+          },
+          "Noi": {
+            "presente": "facciamo",
+            "passato_prossimo": "abbiamo fatto",
+            "passato_imperfetto": "facevamo",
+            "futuro_semplice": "faremo",
+            "futuro_anteriore": "avremo fatto"
+          }
+        }
       },
       {
         "infinitive": "finire",
-        "translation": "acabar",
-        "passato_prossimo": "ho finito",
-        "passato_imperfetto": "finivo",
-        "futuro_semplice": "finirò",
-        "futuro_anteriore": "avrò finito"
+        "translation": "terminar",
+        "persona": {
+          "Io": {
+            "presente": "finisco",
+            "passato_prossimo": "ho finito",
+            "passato_imperfetto": "finivo",
+            "futuro_semplice": "finirò",
+            "futuro_anteriore": "avrò finito"
+          },
+          "Lui/Lei": {
+            "presente": "finisce",
+            "passato_prossimo": "ha finito",
+            "passato_imperfetto": "finiva",
+            "futuro_semplice": "finirà",
+            "futuro_anteriore": "avrà finito"
+          },
+          "Tu": {
+            "presente": "finisci",
+            "passato_prossimo": "hai finito",
+            "passato_imperfetto": "finivi",
+            "futuro_semplice": "finirai",
+            "futuro_anteriore": "avrai finito"
+          },
+          "Noi": {
+            "presente": "finiamo",
+            "passato_prossimo": "abbiamo finito",
+            "passato_imperfetto": "finivamo",
+            "futuro_semplice": "finiremo",
+            "futuro_anteriore": "avremo finito"
+          }
+        }
       },
       {
         "infinitive": "giocare",
         "translation": "jugar",
-        "passato_prossimo": "ho giocato",
-        "passato_imperfetto": "giocavo",
-        "futuro_semplice": "giocherò",
-        "futuro_anteriore": "avrò giocato"
+        "persona": {
+          "Io": {
+            "presente": "gioco",
+            "passato_prossimo": "ho giocato",
+            "passato_imperfetto": "giocavo",
+            "futuro_semplice": "giocherò",
+            "futuro_anteriore": "avrò giocato"
+          },
+          "Lui/Lei": {
+            "presente": "gioca",
+            "passato_prossimo": "ha giocato",
+            "passato_imperfetto": "giocava",
+            "futuro_semplice": "giocherà",
+            "futuro_anteriore": "avrà giocato"
+          },
+          "Tu": {
+            "presente": "giochi",
+            "passato_prossimo": "hai giocato",
+            "passato_imperfetto": "giocavi",
+            "futuro_semplice": "giocherai",
+            "futuro_anteriore": "avrai giocato"
+          },
+          "Noi": {
+            "presente": "giochiamo",
+            "passato_prossimo": "abbiamo giocato",
+            "passato_imperfetto": "giocavamo",
+            "futuro_semplice": "giocheremo",
+            "futuro_anteriore": "avremo giocato"
+          }
+        }
       },
       {
         "infinitive": "guardare",
         "translation": "mirar",
-        "passato_prossimo": "ho guardato",
-        "passato_imperfetto": "guardavo",
-        "futuro_semplice": "guarderò",
-        "futuro_anteriore": "avrò guardato"
+        "persona": {
+          "Io": {
+            "presente": "guardo",
+            "passato_prossimo": "ho guardato",
+            "passato_imperfetto": "guardavo",
+            "futuro_semplice": "guarderò",
+            "futuro_anteriore": "avrò guardato"
+          },
+          "Lui/Lei": {
+            "presente": "guarda",
+            "passato_prossimo": "ha guardato",
+            "passato_imperfetto": "guardava",
+            "futuro_semplice": "guarderà",
+            "futuro_anteriore": "avrà guardato"
+          },
+          "Tu": {
+            "presente": "guardi",
+            "passato_prossimo": "hai guardato",
+            "passato_imperfetto": "guardavi",
+            "futuro_semplice": "guarderai",
+            "futuro_anteriore": "avrai guardato"
+          },
+          "Noi": {
+            "presente": "guardiamo",
+            "passato_prossimo": "abbiamo guardato",
+            "passato_imperfetto": "guardavamo",
+            "futuro_semplice": "guarderemo",
+            "futuro_anteriore": "avremo guardato"
+          }
+        }
       },
       {
         "infinitive": "imparare",
         "translation": "aprender",
-        "passato_prossimo": "ho imparato",
-        "passato_imperfetto": "imparavo",
-        "futuro_semplice": "imparerò",
-        "futuro_anteriore": "avrò imparato"
+        "persona": {
+          "Io": {
+            "presente": "imparo",
+            "passato_prossimo": "ho imparato",
+            "passato_imperfetto": "imparavo",
+            "futuro_semplice": "imparerò",
+            "futuro_anteriore": "avrò imparato"
+          },
+          "Lui/Lei": {
+            "presente": "impara",
+            "passato_prossimo": "ha imparato",
+            "passato_imperfetto": "imparava",
+            "futuro_semplice": "imparerà",
+            "futuro_anteriore": "avrà imparato"
+          },
+          "Tu": {
+            "presente": "impari",
+            "passato_prossimo": "hai imparato",
+            "passato_imperfetto": "imparavi",
+            "futuro_semplice": "imparerai",
+            "futuro_anteriore": "avrai imparato"
+          },
+          "Noi": {
+            "presente": "impariamo",
+            "passato_prossimo": "abbiamo imparato",
+            "passato_imperfetto": "imparavamo",
+            "futuro_semplice": "impareremo",
+            "futuro_anteriore": "avremo imparato"
+          }
+        }
       },
       {
         "infinitive": "incontrare",
         "translation": "encontrar",
-        "passato_prossimo": "ho incontrato",
-        "passato_imperfetto": "incontravo",
-        "futuro_semplice": "incontrerò",
-        "futuro_anteriore": "avrò incontrato"
+        "persona": {
+          "Io": {
+            "presente": "incontro",
+            "passato_prossimo": "ho incontrato",
+            "passato_imperfetto": "incontravo",
+            "futuro_semplice": "incontrerò",
+            "futuro_anteriore": "avrò incontrato"
+          },
+          "Lui/Lei": {
+            "presente": "incontra",
+            "passato_prossimo": "ha incontrato",
+            "passato_imperfetto": "incontrava",
+            "futuro_semplice": "incontrerà",
+            "futuro_anteriore": "avrà incontrato"
+          },
+          "Tu": {
+            "presente": "incontri",
+            "passato_prossimo": "hai incontrato",
+            "passato_imperfetto": "incontravi",
+            "futuro_semplice": "incontrerai",
+            "futuro_anteriore": "avrai incontrato"
+          },
+          "Noi": {
+            "presente": "incontriamo",
+            "passato_prossimo": "abbiamo incontrato",
+            "passato_imperfetto": "incontravamo",
+            "futuro_semplice": "incontreremo",
+            "futuro_anteriore": "avremo incontrato"
+          }
+        }
       },
       {
         "infinitive": "lasciare",
         "translation": "dejar",
-        "passato_prossimo": "ho lasciato",
-        "passato_imperfetto": "lasciavo",
-        "futuro_semplice": "lascerò",
-        "futuro_anteriore": "avrò lasciato"
+        "persona": {
+          "Io": {
+            "presente": "lascio",
+            "passato_prossimo": "ho lasciato",
+            "passato_imperfetto": "lasciavo",
+            "futuro_semplice": "lascierò",
+            "futuro_anteriore": "avrò lasciato"
+          },
+          "Lui/Lei": {
+            "presente": "lascia",
+            "passato_prossimo": "ha lasciato",
+            "passato_imperfetto": "lasciava",
+            "futuro_semplice": "lascierà",
+            "futuro_anteriore": "avrà lasciato"
+          },
+          "Tu": {
+            "presente": "lasci",
+            "passato_prossimo": "hai lasciato",
+            "passato_imperfetto": "lasciavi",
+            "futuro_semplice": "lascierai",
+            "futuro_anteriore": "avrai lasciato"
+          },
+          "Noi": {
+            "presente": "lasciamo",
+            "passato_prossimo": "abbiamo lasciato",
+            "passato_imperfetto": "lasciavamo",
+            "futuro_semplice": "lascieremo",
+            "futuro_anteriore": "avremo lasciato"
+          }
+        }
       },
       {
         "infinitive": "lavare",
         "translation": "lavar",
-        "passato_prossimo": "ho lavato",
-        "passato_imperfetto": "lavavo",
-        "futuro_semplice": "laverò",
-        "futuro_anteriore": "avrò lavato"
+        "persona": {
+          "Io": {
+            "presente": "lavo",
+            "passato_prossimo": "ho lavato",
+            "passato_imperfetto": "lavavo",
+            "futuro_semplice": "laverò",
+            "futuro_anteriore": "avrò lavato"
+          },
+          "Lui/Lei": {
+            "presente": "lava",
+            "passato_prossimo": "ha lavato",
+            "passato_imperfetto": "lavava",
+            "futuro_semplice": "laverà",
+            "futuro_anteriore": "avrà lavato"
+          },
+          "Tu": {
+            "presente": "lavi",
+            "passato_prossimo": "hai lavato",
+            "passato_imperfetto": "lavavi",
+            "futuro_semplice": "laverai",
+            "futuro_anteriore": "avrai lavato"
+          },
+          "Noi": {
+            "presente": "laviamo",
+            "passato_prossimo": "abbiamo lavato",
+            "passato_imperfetto": "lavavamo",
+            "futuro_semplice": "laveremo",
+            "futuro_anteriore": "avremo lavato"
+          }
+        }
       },
       {
         "infinitive": "lavorare",
         "translation": "trabajar",
-        "passato_prossimo": "ho lavorato",
-        "passato_imperfetto": "lavoravo",
-        "futuro_semplice": "lavorerò",
-        "futuro_anteriore": "avrò lavorato"
+        "persona": {
+          "Io": {
+            "presente": "lavoro",
+            "passato_prossimo": "ho lavorato",
+            "passato_imperfetto": "lavoravo",
+            "futuro_semplice": "lavorerò",
+            "futuro_anteriore": "avrò lavorato"
+          },
+          "Lui/Lei": {
+            "presente": "lavora",
+            "passato_prossimo": "ha lavorato",
+            "passato_imperfetto": "lavorava",
+            "futuro_semplice": "lavorerà",
+            "futuro_anteriore": "avrà lavorato"
+          },
+          "Tu": {
+            "presente": "lavori",
+            "passato_prossimo": "hai lavorato",
+            "passato_imperfetto": "lavoravi",
+            "futuro_semplice": "lavorerai",
+            "futuro_anteriore": "avrai lavorato"
+          },
+          "Noi": {
+            "presente": "lavoriamo",
+            "passato_prossimo": "abbiamo lavorato",
+            "passato_imperfetto": "lavoravamo",
+            "futuro_semplice": "lavoreremo",
+            "futuro_anteriore": "avremo lavorato"
+          }
+        }
       },
       {
         "infinitive": "leggere",
         "translation": "leer",
-        "passato_prossimo": "ho letto",
-        "passato_imperfetto": "leggevo",
-        "futuro_semplice": "leggerò",
-        "futuro_anteriore": "avrò letto"
+        "persona": {
+          "Io": {
+            "presente": "leggo",
+            "passato_prossimo": "ho letto",
+            "passato_imperfetto": "leggevo",
+            "futuro_semplice": "leggerò",
+            "futuro_anteriore": "avrò letto"
+          },
+          "Lui/Lei": {
+            "presente": "legge",
+            "passato_prossimo": "ha letto",
+            "passato_imperfetto": "leggeva",
+            "futuro_semplice": "leggerà",
+            "futuro_anteriore": "avrà letto"
+          },
+          "Tu": {
+            "presente": "leggi",
+            "passato_prossimo": "hai letto",
+            "passato_imperfetto": "leggevi",
+            "futuro_semplice": "leggerai",
+            "futuro_anteriore": "avrai letto"
+          },
+          "Noi": {
+            "presente": "leggiamo",
+            "passato_prossimo": "abbiamo letto",
+            "passato_imperfetto": "leggevamo",
+            "futuro_semplice": "leggeremo",
+            "futuro_anteriore": "avremo letto"
+          }
+        }
       },
       {
         "infinitive": "mangiare",
         "translation": "comer",
-        "passato_prossimo": "ho mangiato",
-        "passato_imperfetto": "mangiavo",
-        "futuro_semplice": "mangerò",
-        "futuro_anteriore": "avrò mangiato"
+        "persona": {
+          "Io": {
+            "presente": "mangio",
+            "passato_prossimo": "ho mangiato",
+            "passato_imperfetto": "mangiavo",
+            "futuro_semplice": "mangerò",
+            "futuro_anteriore": "avrò mangiato"
+          },
+          "Lui/Lei": {
+            "presente": "mangia",
+            "passato_prossimo": "ha mangiato",
+            "passato_imperfetto": "mangiava",
+            "futuro_semplice": "mangerà",
+            "futuro_anteriore": "avrà mangiato"
+          },
+          "Tu": {
+            "presente": "mangi",
+            "passato_prossimo": "hai mangiato",
+            "passato_imperfetto": "mangiavi",
+            "futuro_semplice": "mangerai",
+            "futuro_anteriore": "avrai mangiato"
+          },
+          "Noi": {
+            "presente": "mangiamo",
+            "passato_prossimo": "abbiamo mangiato",
+            "passato_imperfetto": "mangiavamo",
+            "futuro_semplice": "mangeremo",
+            "futuro_anteriore": "avremo mangiato"
+          }
+        }
       },
       {
         "infinitive": "mettere",
         "translation": "poner",
-        "passato_prossimo": "ho messo",
-        "passato_imperfetto": "mettevo",
-        "futuro_semplice": "metterò",
-        "futuro_anteriore": "avrò messo"
+        "persona": {
+          "Io": {
+            "presente": "metto",
+            "passato_prossimo": "ho messo",
+            "passato_imperfetto": "mettevo",
+            "futuro_semplice": "metterò",
+            "futuro_anteriore": "avrò messo"
+          },
+          "Lui/Lei": {
+            "presente": "mette",
+            "passato_prossimo": "ha messo",
+            "passato_imperfetto": "metteva",
+            "futuro_semplice": "metterà",
+            "futuro_anteriore": "avrà messo"
+          },
+          "Tu": {
+            "presente": "metti",
+            "passato_prossimo": "hai messo",
+            "passato_imperfetto": "mettevi",
+            "futuro_semplice": "metterai",
+            "futuro_anteriore": "avrai messo"
+          },
+          "Noi": {
+            "presente": "mettiamo",
+            "passato_prossimo": "abbiamo messo",
+            "passato_imperfetto": "mettevamo",
+            "futuro_semplice": "metteremo",
+            "futuro_anteriore": "avremo messo"
+          }
+        }
       },
       {
         "infinitive": "morire",
         "translation": "morir",
-        "passato_prossimo": "sono morto",
-        "passato_imperfetto": "morivo",
-        "futuro_semplice": "morirò",
-        "futuro_anteriore": "sarò morto"
+        "persona": {
+          "Io": {
+            "presente": "muoio",
+            "passato_prossimo": "sono morto/a",
+            "passato_imperfetto": "morivo",
+            "futuro_semplice": "morirò",
+            "futuro_anteriore": "sarò morto/a"
+          },
+          "Lui/Lei": {
+            "presente": "muore",
+            "passato_prossimo": "è morto/a",
+            "passato_imperfetto": "moriva",
+            "futuro_semplice": "morirà",
+            "futuro_anteriore": "sarà morto/a"
+          },
+          "Tu": {
+            "presente": "muori",
+            "passato_prossimo": "sei morto/a",
+            "passato_imperfetto": "morivi",
+            "futuro_semplice": "morirai",
+            "futuro_anteriore": "sarai morto/a"
+          },
+          "Noi": {
+            "presente": "moriamo",
+            "passato_prossimo": "siamo morti/e",
+            "passato_imperfetto": "morivamo",
+            "futuro_semplice": "moriremo",
+            "futuro_anteriore": "saremo morti/e"
+          }
+        }
       },
       {
         "infinitive": "nascere",
         "translation": "nacer",
-        "passato_prossimo": "sono nato",
-        "passato_imperfetto": "nascevo",
-        "futuro_semplice": "nascerò",
-        "futuro_anteriore": "sarò nato"
+        "persona": {
+          "Io": {
+            "presente": "nasco",
+            "passato_prossimo": "sono nato/a",
+            "passato_imperfetto": "nascevo",
+            "futuro_semplice": "nascerò",
+            "futuro_anteriore": "sarò nato/a"
+          },
+          "Lui/Lei": {
+            "presente": "nasce",
+            "passato_prossimo": "è nato/a",
+            "passato_imperfetto": "nasceva",
+            "futuro_semplice": "nascerà",
+            "futuro_anteriore": "sarà nato/a"
+          },
+          "Tu": {
+            "presente": "nasci",
+            "passato_prossimo": "sei nato/a",
+            "passato_imperfetto": "nascevi",
+            "futuro_semplice": "nascerai",
+            "futuro_anteriore": "sarai nato/a"
+          },
+          "Noi": {
+            "presente": "nasciamo",
+            "passato_prossimo": "siamo nati/e",
+            "passato_imperfetto": "nascevamo",
+            "futuro_semplice": "nasceremo",
+            "futuro_anteriore": "saremo nati/e"
+          }
+        }
       },
       {
         "infinitive": "offrire",
         "translation": "ofrecer",
-        "passato_prossimo": "ho offerto",
-        "passato_imperfetto": "offrivo",
-        "futuro_semplice": "offrirò",
-        "futuro_anteriore": "avrò offerto"
+        "persona": {
+          "Io": {
+            "presente": "offro",
+            "passato_prossimo": "ho offerto",
+            "passato_imperfetto": "offrivo",
+            "futuro_semplice": "offrirò",
+            "futuro_anteriore": "avrò offerto"
+          },
+          "Lui/Lei": {
+            "presente": "offre",
+            "passato_prossimo": "ha offerto",
+            "passato_imperfetto": "offriva",
+            "futuro_semplice": "offrirà",
+            "futuro_anteriore": "avrà offerto"
+          },
+          "Tu": {
+            "presente": "offri",
+            "passato_prossimo": "hai offerto",
+            "passato_imperfetto": "offrivi",
+            "futuro_semplice": "offrirai",
+            "futuro_anteriore": "avrai offerto"
+          },
+          "Noi": {
+            "presente": "offriamo",
+            "passato_prossimo": "abbiamo offerto",
+            "passato_imperfetto": "offrivamo",
+            "futuro_semplice": "offriremo",
+            "futuro_anteriore": "avremo offerto"
+          }
+        }
       },
       {
         "infinitive": "pagare",
         "translation": "pagar",
-        "passato_prossimo": "ho pagato",
-        "passato_imperfetto": "pagavo",
-        "futuro_semplice": "pagherò",
-        "futuro_anteriore": "avrò pagato"
+        "persona": {
+          "Io": {
+            "presente": "pago",
+            "passato_prossimo": "ho pagato",
+            "passato_imperfetto": "pagavo",
+            "futuro_semplice": "pagherò",
+            "futuro_anteriore": "avrò pagato"
+          },
+          "Lui/Lei": {
+            "presente": "paga",
+            "passato_prossimo": "ha pagato",
+            "passato_imperfetto": "pagava",
+            "futuro_semplice": "pagherà",
+            "futuro_anteriore": "avrà pagato"
+          },
+          "Tu": {
+            "presente": "paghi",
+            "passato_prossimo": "hai pagato",
+            "passato_imperfetto": "pagavi",
+            "futuro_semplice": "pagherai",
+            "futuro_anteriore": "avrai pagato"
+          },
+          "Noi": {
+            "presente": "paghiamo",
+            "passato_prossimo": "abbiamo pagato",
+            "passato_imperfetto": "paghiamo",
+            "futuro_semplice": "pagheremo",
+            "futuro_anteriore": "avremo pagato"
+          }
+        }
       },
       {
         "infinitive": "parlare",
         "translation": "hablar",
-        "passato_prossimo": "ho parlato",
-        "passato_imperfetto": "parlavo",
-        "futuro_semplice": "parerò",
-        "futuro_anteriore": "avrò parlato"
+        "persona": {
+          "Io": {
+            "presente": "parlo",
+            "passato_prossimo": "ho parlato",
+            "passato_imperfetto": "parlavo",
+            "futuro_semplice": "parlerò",
+            "futuro_anteriore": "avrò parlato"
+          },
+          "Lui/Lei": {
+            "presente": "parla",
+            "passato_prossimo": "ha parlato",
+            "passato_imperfetto": "parlava",
+            "futuro_semplice": "parlerà",
+            "futuro_anteriore": "avrà parlato"
+          },
+          "Tu": {
+            "presente": "parli",
+            "passato_prossimo": "hai parlato",
+            "passato_imperfetto": "parlavi",
+            "futuro_semplice": "parlerai",
+            "futuro_anteriore": "avrai parlato"
+          },
+          "Noi": {
+            "presente": "parliamo",
+            "passato_prossimo": "abbiamo parlato",
+            "passato_imperfetto": "parlavamo",
+            "futuro_semplice": "parleremo",
+            "futuro_anteriore": "avremo parlato"
+          }
+        }
       },
       {
         "infinitive": "partire",
         "translation": "partir",
-        "passato_prossimo": "sono partito",
-        "passato_imperfetto": "partivo",
-        "futuro_semplice": "partirò",
-        "futuro_anteriore": "sarò partito"
+        "persona": {
+          "Io": {
+            "presente": "parto",
+            "passato_prossimo": "sono partito/a",
+            "passato_imperfetto": "partivo",
+            "futuro_semplice": "partirò",
+            "futuro_anteriore": "sarò partito/a"
+          },
+          "Lui/Lei": {
+            "presente": "parte",
+            "passato_prossimo": "è partito/a",
+            "passato_imperfetto": "partiva",
+            "futuro_semplice": "partirà",
+            "futuro_anteriore": "sarà partito/a"
+          },
+          "Tu": {
+            "presente": "parti",
+            "passato_prossimo": "sei partito/a",
+            "passato_imperfetto": "partivi",
+            "futuro_semplice": "partirai",
+            "futuro_anteriore": "sarai partito/a"
+          },
+          "Noi": {
+            "presente": "partiamo",
+            "passato_prossimo": "siamo partiti/e",
+            "passato_imperfetto": "partivamo",
+            "futuro_semplice": "partiremo",
+            "futuro_anteriore": "saremo partiti/e"
+          }
+        }
       },
       {
         "infinitive": "passare",
         "translation": "pasar",
-        "passato_prossimo": "ho passato",
-        "passato_imperfetto": "passavo",
-        "futuro_semplice": "passerò",
-        "futuro_anteriore": "avrò passato"
+        "persona": {
+          "Io": {
+            "presente": "passo",
+            "passato_prossimo": "ho passato",
+            "passato_imperfetto": "passavo",
+            "futuro_semplice": "passerò",
+            "futuro_anteriore": "avrò passato"
+          },
+          "Lui/Lei": {
+            "presente": "passa",
+            "passato_prossimo": "ha passato",
+            "passato_imperfetto": "passava",
+            "futuro_semplice": "passerà",
+            "futuro_anteriore": "avrà passato"
+          },
+          "Tu": {
+            "presente": "passi",
+            "passato_prossimo": "hai passato",
+            "passato_imperfetto": "passavi",
+            "futuro_semplice": "passerai",
+            "futuro_anteriore": "avrai passato"
+          },
+          "Noi": {
+            "presente": "passiamo",
+            "passato_prossimo": "abbiamo passato",
+            "passato_imperfetto": "passavamo",
+            "futuro_semplice": "passeremo",
+            "futuro_anteriore": "avremo passato"
+          }
+        }
       },
       {
         "infinitive": "pensare",
         "translation": "pensar",
-        "passato_prossimo": "ho pensato",
-        "passato_imperfetto": "pensavo",
-        "futuro_semplice": "penserò",
-        "futuro_anteriore": "avrò pensato"
+        "persona": {
+          "Io": {
+            "presente": "penso",
+            "passato_prossimo": "ho pensato",
+            "passato_imperfetto": "pensavo",
+            "futuro_semplice": "penserò",
+            "futuro_anteriore": "avrò pensato"
+          },
+          "Lui/Lei": {
+            "presente": "pensa",
+            "passato_prossimo": "ha pensato",
+            "passato_imperfetto": "pensava",
+            "futuro_semplice": "penserà",
+            "futuro_anteriore": "avrà pensato"
+          },
+          "Tu": {
+            "presente": "pensi",
+            "passato_prossimo": "hai pensato",
+            "passato_imperfetto": "pensavi",
+            "futuro_semplice": "penserai",
+            "futuro_anteriore": "avrai pensato"
+          },
+          "Noi": {
+            "presente": "pensiamo",
+            "passato_prossimo": "abbiamo pensato",
+            "passato_imperfetto": "pensavamo",
+            "futuro_semplice": "penseremo",
+            "futuro_anteriore": "avremo pensato"
+          }
+        }
       },
       {
         "infinitive": "perdere",
         "translation": "perder",
-        "passato_prossimo": "ho perso",
-        "passato_imperfetto": "perdevo",
-        "futuro_semplice": "perderò",
-        "futuro_anteriore": "avrò perso"
+        "persona": {
+          "Io": {
+            "presente": "perdo",
+            "passato_prossimo": "ho perso",
+            "passato_imperfetto": "perdevo",
+            "futuro_semplice": "perderò",
+            "futuro_anteriore": "avrò perso"
+          },
+          "Lui/Lei": {
+            "presente": "perde",
+            "passato_prossimo": "ha perso",
+            "passato_imperfetto": "perdeva",
+            "futuro_semplice": "perderà",
+            "futuro_anteriore": "avrà perso"
+          },
+          "Tu": {
+            "presente": "perdi",
+            "passato_prossimo": "hai perso",
+            "passato_imperfetto": "perdevi",
+            "futuro_semplice": "perderai",
+            "futuro_anteriore": "avrai perso"
+          },
+          "Noi": {
+            "presente": "perdiamo",
+            "passato_prossimo": "abbiamo perso",
+            "passato_imperfetto": "perdevamo",
+            "futuro_semplice": "perderemo",
+            "futuro_anteriore": "avremo perso"
+          }
+        }
       },
       {
         "infinitive": "piacere",
         "translation": "gustar",
-        "passato_prossimo": "mi è piaciuto",
-        "passato_imperfetto": "mi piacevo",
-        "futuro_semplice": "mi piacerò",
-        "futuro_anteriore": "mi sarà piaciuto"
+        "persona": {
+          "Io": {
+            "presente": "piaccio",
+            "passato_prossimo": "sono piaciuto/a",
+            "passato_imperfetto": "piacevo",
+            "futuro_semplice": "piacerò",
+            "futuro_anteriore": "sarò piaciuto/a"
+          },
+          "Lui/Lei": {
+            "presente": "piace",
+            "passato_prossimo": "è piaciuto/a",
+            "passato_imperfetto": "piaceva",
+            "futuro_semplice": "piacerà",
+            "futuro_anteriore": "sarà piaciuto/a"
+          },
+          "Tu": {
+            "presente": "piaci",
+            "passato_prossimo": "sei piaciuto/a",
+            "passato_imperfetto": "piacevi",
+            "futuro_semplice": "piacerai",
+            "futuro_anteriore": "sarai piaciuto/a"
+          },
+          "Noi": {
+            "presente": "piacciamo",
+            "passato_prossimo": "siamo piaciuti/e",
+            "passato_imperfetto": "piacevamo",
+            "futuro_semplice": "piaceremo",
+            "futuro_anteriore": "saremo piaciuti/e"
+          }
+        }
       },
       {
         "infinitive": "porre",
         "translation": "poner",
-        "passato_prossimo": "ho posto",
-        "passato_imperfetto": "ponevo",
-        "futuro_semplice": "porrò",
-        "futuro_anteriore": "avrò posto"
+        "persona": {
+          "Io": {
+            "presente": "pongo",
+            "passato_prossimo": "ho posto",
+            "passato_imperfetto": "ponevo",
+            "futuro_semplice": "porrò",
+            "futuro_anteriore": "avrò posto"
+          },
+          "Lui/Lei": {
+            "presente": "pone",
+            "passato_prossimo": "ha posto",
+            "passato_imperfetto": "poneva",
+            "futuro_semplice": "porrà",
+            "futuro_semplice": "avrà posto"
+          },
+          "Tu": {
+            "presente": "poni",
+            "passato_prossimo": "hai posto",
+            "passato_imperfetto": "ponevi",
+            "futuro_semplice": "porrai",
+            "futuro_semplice": "avrai posto"
+          },
+          "Noi": {
+            "presente": "poniamo",
+            "passato_prossimo": "abbiamo posto",
+            "passato_imperfetto": "ponevamo",
+            "futuro_semplice": "porremo",
+            "futuro_anteriore": "avremo posto"
+          }
+        }
       },
       {
         "infinitive": "portare",
         "translation": "llevar",
-        "passato_prossimo": "ho portato",
-        "passato_imperfetto": "portavo",
-        "futuro_semplice": "porterò",
-        "futuro_anteriore": "avrò portato"
+        "persona": {
+          "Io": {
+            "presente": "porto",
+            "passato_prossimo": "ho portato",
+            "passato_imperfetto": "portavo",
+            "futuro_semplice": "porterò",
+            "futuro_anteriore": "avrò portato"
+          },
+          "Lui/Lei": {
+            "presente": "porta",
+            "passato_prossimo": "ha portato",
+            "passato_imperfetto": "portava",
+            "futuro_semplice": "porterà",
+            "futuro_anteriore": "avrà portato"
+          },
+          "Tu": {
+            "presente": "porti",
+            "passato_prossimo": "hai portato",
+            "passato_imperfetto": "portavi",
+            "futuro_semplice": "porterai",
+            "futuro_anteriore": "avrai portato"
+          },
+          "Noi": {
+            "presente": "portiamo",
+            "passato_prossimo": "abbiamo portato",
+            "passato_imperfetto": "portavamo",
+            "futuro_semplice": "porteremo",
+            "futuro_anteriore": "avremo portato"
+          }
+        }
       },
       {
         "infinitive": "potere",
         "translation": "poder",
-        "passato_prossimo": "ho potuto",
-        "passato_imperfetto": "potevo",
-        "futuro_semplice": "potrò",
-        "futuro_anteriore": "avrò potuto"
+        "persona": {
+          "Io": {
+            "presente": "posso",
+            "passato_prossimo": "ho potuto",
+            "passato_imperfetto": "potevo",
+            "futuro_semplice": "potrò",
+            "futuro_anteriore": "avrò potuto"
+          },
+          "Lui/Lei": {
+            "presente": "può",
+            "passato_prossimo": "ha potuto",
+            "passato_imperfetto": "poteva",
+            "futuro_semplice": "potrà",
+            "futuro_anteriore": "avrà potuto"
+          },
+          "Tu": {
+            "presente": "puoi",
+            "passato_prossimo": "hai potuto",
+            "passato_imperfetto": "potevi",
+            "futuro_semplice": "potrai",
+            "futuro_anteriore": "avrai potuto"
+          },
+          "Noi": {
+            "presente": "possiamo",
+            "passato_prossimo": "abbiamo potuto",
+            "passato_imperfetto": "potevamo",
+            "futuro_semplice": "potremo",
+            "futuro_anteriore": "avremo potuto"
+          }
+        }
       },
       {
         "infinitive": "preferire",
         "translation": "preferir",
-        "passato_prossimo": "ho preferito",
-        "passato_imperfetto": "preferivo",
-        "futuro_semplice": "preferirò",
-        "futuro_anteriore": "avrò preferito"
+        "persona": {
+          "Io": {
+            "presente": "preferisco",
+            "passato_prossimo": "ho preferito",
+            "passato_imperfetto": "preferivo",
+            "futuro_semplice": "preferirò",
+            "futuro_anteriore": "avrò preferito"
+          },
+          "Lui/Lei": {
+            "presente": "preferisce",
+            "passato_prossimo": "ha preferito",
+            "passato_imperfetto": "preferiva",
+            "futuro_semplice": "preferirà",
+            "futuro_anteriore": "avrà preferito"
+          },
+          "Tu": {
+            "presente": "preferisci",
+            "passato_prossimo": "hai preferito",
+            "passato_imperfetto": "preferivi",
+            "futuro_semplice": "preferirai",
+            "futuro_anteriore": "avrai preferito"
+          },
+          "Noi": {
+            "presente": "preferiamo",
+            "passato_prossimo": "abbiamo preferito",
+            "passato_imperfetto": "preferivamo",
+            "futuro_semplice": "preferiremo",
+            "futuro_anteriore": "avremo preferito"
+          }
+        }
       },
       {
         "infinitive": "prendere",
-        "translation": "coger",
-        "passato_prossimo": "ho preso",
-        "passato_imperfetto": "prendavo",
-        "futuro_semplice": "prenderò",
-        "futuro_anteriore": "avrò preso"
+        "translation": "tomar",
+        "persona": {
+          "Io": {
+            "presente": "prendo",
+            "passato_prossimo": "ho preso",
+            "passato_imperfetto": "prendevo",
+            "futuro_semplice": "prenderò",
+            "futuro_anteriore": "avrò preso"
+          },
+          "Lui/Lei": {
+            "presente": "prende",
+            "passato_prossimo": "ha preso",
+            "passato_imperfetto": "prendeva",
+            "futuro_semplice": "prenderà",
+            "futuro_anteriore": "avrà preso"
+          },
+          "Tu": {
+            "presente": "prendi",
+            "passato_prossimo": "hai preso",
+            "passato_imperfetto": "prendevi",
+            "futuro_semplice": "prenderai",
+            "futuro_anteriore": "avrai preso"
+          },
+          "Noi": {
+            "presente": "prendiamo",
+            "passato_prossimo": "abbiamo preso",
+            "passato_imperfetto": "prendevamo",
+            "futuro_semplice": "prenderemo",
+            "futuro_anteriore": "avremo preso"
+          }
+        }
       },
       {
         "infinitive": "pulire",
         "translation": "limpiar",
-        "passato_prossimo": "ho pulito",
-        "passato_imperfetto": "pulivo",
-        "futuro_semplice": "pulirò",
-        "futuro_anteriore": "avrò pulito"
+        "persona": {
+          "Io": {
+            "presente": "pulisco",
+            "passato_prossimo": "ho pulito",
+            "passato_imperfetto": "pulivo",
+            "futuro_semplice": "pulirò",
+            "futuro_anteriore": "avrò pulito"
+          },
+          "Lui/Lei": {
+            "presente": "pulisce",
+            "passato_prossimo": "ha pulito",
+            "passato_imperfetto": "puliva",
+            "futuro_semplice": "pulirà",
+            "futuro_anteriore": "avrà pulito"
+          },
+          "Tu": {
+            "presente": "pulisci",
+            "passato_prossimo": "hai pulito",
+            "passato_imperfetto": "pulivi",
+            "futuro_semplice": "pulirai",
+            "futuro_anteriore": "avrai pulito"
+          },
+          "Noi": {
+            "presente": "puliamo",
+            "passato_prossimo": "abbiamo pulito",
+            "passato_imperfetto": "pulivamo",
+            "futuro_semplice": "puliremo",
+            "futuro_anteriore": "avremo pulito"
+          }
+        }
       },
       {
         "infinitive": "restare",
-        "translation": "permanecer",
-        "passato_prossimo": "sono rimasto",
-        "passato_imperfetto": "rimanevo",
-        "futuro_semplice": "rimarrò",
-        "futuro_anteriore": "sarò rimasto"
+        "translation": "quedar",
+        "persona": {
+          "Io": {
+            "presente": "resto",
+            "passato_prossimo": "sono restato/a",
+            "passato_imperfetto": "restavo",
+            "futuro_semplice": "resterò",
+            "futuro_anteriore": "sarò restato/a"
+          },
+          "Lui/Lei": {
+            "presente": "resta",
+            "passato_prossimo": "è restato/a",
+            "passato_imperfetto": "restava",
+            "futuro_semplice": "resterà",
+            "futuro_anteriore": "sarà restato/a"
+          },
+          "Tu": {
+            "presente": "resti",
+            "passato_prossimo": "sei restato/a",
+            "passato_imperfetto": "restavi",
+            "futuro_semplice": "resterai",
+            "futuro_anteriore": "sarai restato/a"
+          },
+          "Noi": {
+            "presente": "restiamo",
+            "passato_prossimo": "siamo restati/e",
+            "passato_imperfetto": "restavamo",
+            "futuro_semplice": "resteremo",
+            "futuro_anteriore": "saremo restati/e"
+          }
+        }
       },
       {
         "infinitive": "ricevere",
         "translation": "recibir",
-        "passato_prossimo": "ho ricevuto",
-        "passato_imperfetto": "ricevevo",
-        "futuro_semplice": "riceverò",
-        "futuro_anteriore": "avrò ricevuto"
+        "persona": {
+          "Io": {
+            "presente": "ricevo",
+            "passato_prossimo": "ho ricevuto",
+            "passato_imperfetto": "ricevevo",
+            "futuro_semplice": "riceverò",
+            "futuro_anteriore": "avrò ricevuto"
+          },
+          "Lui/Lei": {
+            "presente": "riceve",
+            "passato_prossimo": "ha ricevuto",
+            "passato_imperfetto": "riceveva",
+            "futuro_semplice": "riceverà",
+            "futuro_anteriore": "avrà ricevuto"
+          },
+          "Tu": {
+            "presente": "ricevi",
+            "passato_prossimo": "hai ricevuto",
+            "passato_imperfetto": "ricevevi",
+            "futuro_semplice": "riceverai",
+            "futuro_anteriore": "avrai ricevuto"
+          },
+          "Noi": {
+            "presente": "riceviamo",
+            "passato_prossimo": "abbiamo ricevuto",
+            "passato_imperfetto": "ricevevamo",
+            "futuro_semplice": "riceveremo",
+            "futuro_anteriore": "avremo ricevuto"
+          }
+        }
       },
       {
         "infinitive": "ricordare",
         "translation": "recordar",
-        "passato_prossimo": "ho ricordato",
-        "passato_imperfetto": "ricordavo",
-        "futuro_semplice": "ricorderò",
-        "futuro_anteriore": "avrò ricordato"
+        "persona": {
+          "Io": {
+            "presente": "ricordo",
+            "passato_prossimo": "ho ricordato",
+            "passato_imperfetto": "ricordavo",
+            "futuro_semplice": "ricorderò",
+            "futuro_anteriore": "avrò ricordato"
+          },
+          "Lui/Lei": {
+            "presente": "ricorda",
+            "passato_prossimo": "ha ricordato",
+            "passato_imperfetto": "ricordava",
+            "futuro_semplice": "ricorderà",
+            "futuro_anteriore": "avrà ricordato"
+          },
+          "Tu": {
+            "presente": "ricordi",
+            "passato_prossimo": "hai ricordato",
+            "passato_imperfetto": "ricordavi",
+            "futuro_semplice": "ricorderai",
+            "futuro_anteriore": "avrai ricordato"
+          },
+          "Noi": {
+            "presente": "ricordiamo",
+            "passato_prossimo": "abbiamo ricordato",
+            "passato_imperfetto": "ricordavamo",
+            "futuro_semplice": "ricorderemo",
+            "futuro_anteriore": "avremo ricordato"
+          }
+        }
       },
       {
         "infinitive": "ridere",
         "translation": "reír",
-        "passato_prossimo": "ho riso",
-        "passato_imperfetto": "ridevo",
-        "futuro_semplice": "rirò",
-        "futuro_anteriore": "avrò riso"
+        "persona": {
+          "Io": {
+            "presente": "rido",
+            "passato_prossimo": "ho riso",
+            "passato_imperfetto": "ridevo",
+            "futuro_semplice": "riderò",
+            "futuro_anteriore": "avrò riso"
+          },
+          "Lui/Lei": {
+            "presente": "ride",
+            "passato_prossimo": "ha riso",
+            "passato_imperfetto": "rideva",
+            "futuro_semplice": "riderà",
+            "futuro_anteriore": "avrà riso"
+          },
+          "Tu": {
+            "presente": "ridi",
+            "passato_prossimo": "hai riso",
+            "passato_imperfetto": "ridevi",
+            "futuro_semplice": "riderai",
+            "futuro_anteriore": "avrai riso"
+          },
+          "Noi": {
+            "presente": "ridiamo",
+            "passato_prossimo": "abbiamo riso",
+            "passato_imperfetto": "ridevamo",
+            "futuro_semplice": "rideremo",
+            "futuro_anteriore": "avremo riso"
+          }
+        }
       },
       {
         "infinitive": "rimanere",
-        "translation": "permanecer",
-        "passato_prossimo": "sono rimasto",
-        "passato_imperfetto": "rimanevo",
-        "futuro_semplice": "rimarrò",
-        "futuro_anteriore": "sarò rimasto"
+        "translation": "quedarse",
+        "persona": {
+          "Io": {
+            "presente": "rimango",
+            "passato_prossimo": "sono rimasto/a",
+            "passato_imperfetto": "rimanevo",
+            "futuro_semplice": "rimarrò",
+            "futuro_anteriore": "sarò rimasto/a"
+          },
+          "Lui/Lei": {
+            "presente": "rimane",
+            "passato_prossimo": "è rimasto/a",
+            "passato_imperfetto": "rimaneva",
+            "futuro_semplice": "rimarrà",
+            "futuro_anteriore": "sarà rimasto/a"
+          },
+          "Tu": {
+            "presente": "rimani",
+            "passato_prossimo": "sei rimasto/a",
+            "passato_imperfetto": "rimanevi",
+            "futuro_semplice": "rimarrai",
+            "futuro_anteriore": "sarai rimasto/a"
+          },
+          "Noi": {
+            "presente": "rimaniamo",
+            "passato_prossimo": "siamo rimasti/e",
+            "passato_imperfetto": "rimanevamo",
+            "futuro_semplice": "rimarremo",
+            "futuro_anteriore": "saremo rimasti/e"
+          }
+        }
       },
       {
         "infinitive": "rispondere",
         "translation": "responder",
-        "passato_prossimo": "ho risposto",
-        "passato_imperfetto": "rispondevo",
-        "futuro_semplice": "risponderò",
-        "futuro_anteriore": "avrò risposto"
+        "persona": {
+          "Io": {
+            "presente": "rispondo",
+            "passato_prossimo": "ho risposto",
+            "passato_imperfetto": "rispondevo",
+            "futuro_semplice": "risponderò",
+            "futuro_anteriore": "avrò risposto"
+          },
+          "Lui/Lei": {
+            "presente": "risponde",
+            "passato_prossimo": "ha risposto",
+            "passato_imperfetto": "rispondeva",
+            "futuro_semplice": "risponderà",
+            "futuro_anteriore": "avrà risposto"
+          },
+          "Tu": {
+            "presente": "rispondi",
+            "passato_prossimo": "hai risposto",
+            "passato_imperfetto": "rispondevi",
+            "futuro_semplice": "risponderai",
+            "futuro_anteriore": "avrai risposto"
+          },
+          "Noi": {
+            "presente": "rispondiamo",
+            "passato_prossimo": "abbiamo risposto",
+            "passato_imperfetto": "rispondevamo",
+            "futuro_semplice": "risponderemo",
+            "futuro_anteriore": "avremo risposto"
+          }
+        }
       },
       {
         "infinitive": "riuscire",
-        "translation": "conseguir",
-        "passato_prossimo": "ho riuscito",
-        "passato_imperfetto": "riuscivo",
-        "futuro_semplice": "riuscirò",
-        "futuro_anteriore": "avrò riuscito"
+        "translation": "lograr",
+        "persona": {
+          "Io": {
+            "presente": "riesco",
+            "passato_prossimo": "ho riuscito",
+            "passato_imperfetto": "riuscivo",
+            "futuro_semplice": "riuscirò",
+            "futuro_anteriore": "avrò riuscito"
+          },
+          "Lui/Lei": {
+            "presente": "riesce",
+            "passato_prossimo": "ha riuscito",
+            "passato_imperfetto": "riusciva",
+            "futuro_semplice": "riuscirà",
+            "futuro_anteriore": "avrà riuscito"
+          },
+          "Tu": {
+            "presente": "riesci",
+            "passato_prossimo": "hai riuscito",
+            "passato_imperfetto": "riuscivi",
+            "futuro_semplice": "riuscirai",
+            "futuro_anteriore": "avrai riuscito"
+          },
+          "Noi": {
+            "presente": "riusciamo",
+            "passato_prossimo": "abbiamo riuscito",
+            "passato_imperfetto": "riuscivamo",
+            "futuro_semplice": "riusciremo",
+            "futuro_anteriore": "avremo riuscito"
+          }
+        }
       },
       {
         "infinitive": "salire",
         "translation": "subir",
-        "passato_prossimo": "sono salito",
-        "passato_imperfetto": "salivo",
-        "futuro_semplice": "salirò",
-        "futuro_anteriore": "sarò salito"
+        "persona": {
+          "Io": {
+            "presente": "salgo",
+            "passato_prossimo": "sono salito/a",
+            "passato_imperfetto": "salivo",
+            "futuro_semplice": "salirò",
+            "futuro_anteriore": "sarò salito/a"
+          },
+          "Lui/Lei": {
+            "presente": "sale",
+            "passato_prossimo": "è salito/a",
+            "passato_imperfetto": "saliva",
+            "futuro_semplice": "salirà",
+            "futuro_anteriore": "sarà salito/a"
+          },
+          "Tu": {
+            "presente": "sali",
+            "passato_prossimo": "sei salito/a",
+            "passato_imperfetto": "salivi",
+            "futuro_semplice": "salirai",
+            "futuro_anteriore": "sarai salito/a"
+          },
+          "Noi": {
+            "presente": "saliamo",
+            "passato_prossimo": "siamo saliti/e",
+            "passato_imperfetto": "salivamo",
+            "futuro_semplice": "saliremo",
+            "futuro_anteriore": "saremo saliti/e"
+          }
+        }
       },
       {
         "infinitive": "sapere",
         "translation": "saber",
-        "passato_prossimo": "ho saputo",
-        "passato_imperfetto": "sapevo",
-        "futuro_semplice": "saprò",
-        "futuro_anteriore": "avrò saputo"
+        "persona": {
+          "Io": {
+            "presente": "so",
+            "passato_prossimo": "ho saputo",
+            "passato_imperfetto": "sapevo",
+            "futuro_semplice": "saprò",
+            "futuro_anteriore": "avrò saputo"
+          },
+          "Lui/Lei": {
+            "presente": "sa",
+            "passato_prossimo": "ha saputo",
+            "passato_imperfetto": "sapeva",
+            "futuro_semplice": "saprà",
+            "futuro_anteriore": "avrà saputo"
+          },
+          "Tu": {
+            "presente": "sai",
+            "passato_prossimo": "hai saputo",
+            "passato_imperfetto": "sapevi",
+            "futuro_semplice": "saprai",
+            "futuro_anteriore": "avrai saputo"
+          },
+          "Noi": {
+            "presente": "sappiamo",
+            "passato_prossimo": "abbiamo saputo",
+            "passato_imperfetto": "sapevamo",
+            "futuro_semplice": "saperemo",
+            "futuro_anteriore": "avremo saputo"
+          }
+        }
       },
       {
         "infinitive": "scegliere",
         "translation": "elegir",
-        "passato_prossimo": "ho scelto",
-        "passato_imperfetto": "sceglievo",
-        "futuro_semplice": "sceglierò",
-        "futuro_anteriore": "avrò scelto"
+        "persona": {
+          "Io": {
+            "presente": "scelgo",
+            "passato_prossimo": "ho scelto",
+            "passato_imperfetto": "sceglievo",
+            "futuro_semplice": "sceglierò",
+            "futuro_anteriore": "avrò scelto"
+          },
+          "Lui/Lei": {
+            "presente": "sceglie",
+            "passato_prossimo": "ha scelto",
+            "passato_imperfetto": "sceglieva",
+            "futuro_semplice": "sceglierà",
+            "futuro_anteriore": "avrà scelto"
+          },
+          "Tu": {
+            "presente": "scegli",
+            "passato_prossimo": "hai scelto",
+            "passato_imperfetto": "sceglievi",
+            "futuro_semplice": "sceglierai",
+            "futuro_anteriore": "avrai scelto"
+          },
+          "Noi": {
+            "presente": "scegliamo",
+            "passato_prossimo": "abbiamo scelto",
+            "passato_imperfetto": "sceglievamo",
+            "futuro_semplice": "sceglieremo",
+            "futuro_anteriore": "avremo scelto"
+          }
+        }
       },
       {
         "infinitive": "scendere",
         "translation": "bajar",
-        "passato_prossimo": "sono sceso",
-        "passato_imperfetto": "scendevo",
-        "futuro_semplice": "scenderò",
-        "futuro_anteriore": "sarò sceso"
+        "persona": {
+          "Io": {
+            "presente": "scendo",
+            "passato_prossimo": "sono sceso/a",
+            "passato_imperfetto": "scendevo",
+            "futuro_semplice": "scenderò",
+            "futuro_anteriore": "sarò sceso/a"
+          },
+          "Lui/Lei": {
+            "presente": "scende",
+            "passato_prossimo": "è sceso/a",
+            "passato_imperfetto": "scendeva",
+            "futuro_semplice": "scenderà",
+            "futuro_anteriore": "sarà sceso/a"
+          },
+          "Tu": {
+            "presente": "scendi",
+            "passato_prossimo": "sei sceso/a",
+            "passato_imperfetto": "scendevi",
+            "futuro_semplice": "scenderai",
+            "futuro_anteriore": "sarai sceso/a"
+          },
+          "Noi": {
+            "presente": "scendiamo",
+            "passato_prossimo": "siamo scesi/e",
+            "passato_imperfetto": "scendevamo",
+            "futuro_semplice": "scenderemo",
+            "futuro_anteriore": "saremo scesi/e"
+          }
+        }
       },
       {
         "infinitive": "scrivere",
         "translation": "escribir",
-        "passato_prossimo": "ho scritto",
-        "passato_imperfetto": "scrivevo",
-        "futuro_semplice": "scriverò",
-        "futuro_anteriore": "avrò scritto"
+        "persona": {
+          "Io": {
+            "presente": "scrivo",
+            "passato_prossimo": "ho scritto",
+            "passato_imperfetto": "scrivevo",
+            "futuro_semplice": "scriverò",
+            "futuro_anteriore": "avrò scritto"
+          },
+          "Lui/Lei": {
+            "presente": "scrive",
+            "passato_prossimo": "ha scritto",
+            "passato_imperfetto": "scriveva",
+            "futuro_semplice": "scriverà",
+            "futuro_anteriore": "avrà scritto"
+          },
+          "Tu": {
+            "presente": "scrivi",
+            "passato_prossimo": "hai scritto",
+            "passato_imperfetto": "scrivevi",
+            "futuro_semplice": "scriverai",
+            "futuro_anteriore": "avrai scritto"
+          },
+          "Noi": {
+            "presente": "scriviamo",
+            "passato_prossimo": "abbiamo scritto",
+            "passato_imperfetto": "scrivevamo",
+            "futuro_semplice": "scriveremo",
+            "futuro_anteriore": "avremo scritto"
+          }
+        }
       },
       {
         "infinitive": "sedere",
         "translation": "sentarse",
-        "passato_prossimo": "mi sono seduto",
-        "passato_imperfetto": "mi sedevo",
-        "futuro_semplice": "mi siederò",
-        "futuro_anteriore": "mi sarò seduto"
+        "persona": {
+          "Io": {
+            "presente": "siedo",
+            "passato_prossimo": "sono seduto/a",
+            "passato_imperfetto": "sedevo",
+            "futuro_semplice": "siederò",
+            "futuro_anteriore": "sarò seduto/a"
+          },
+          "Lui/Lei": {
+            "presente": "siede",
+            "passato_prossimo": "è seduto/a",
+            "passato_imperfetto": "sedeva",
+            "futuro_semplice": "siederà",
+            "futuro_anteriore": "sarà seduto/a"
+          },
+          "Tu": {
+            "presente": "siedi",
+            "passato_prossimo": "sei seduto/a",
+            "passato_imperfetto": "sedevo",
+            "futuro_semplice": "siederai",
+            "futuro_anteriore": "sarai seduto/a"
+          },
+          "Noi": {
+            "presente": "sediamo",
+            "passato_prossimo": "siamo seduti/e",
+            "passato_imperfetto": "sedevamo",
+            "futuro_semplice": "siederemo",
+            "futuro_anteriore": "saremo seduti/e"
+          }
+        }
       },
       {
         "infinitive": "seguire",
         "translation": "seguir",
-        "passato_prossimo": "ho seguito",
-        "passato_imperfetto": "seguivo",
-        "futuro_semplice": "seguirò",
-        "futuro_anteriore": "avrò seguito"
+        "persona": {
+          "Io": {
+            "presente": "seguo",
+            "passato_prossimo": "ho seguito",
+            "passato_imperfetto": "seguivo",
+            "futuro_semplice": "seguirò",
+            "futuro_anteriore": "avrò seguito"
+          },
+          "Lui/Lei": {
+            "presente": "segue",
+            "passato_prossimo": "ha seguito",
+            "passato_imperfetto": "seguiva",
+            "futuro_semplice": "seguirà",
+            "futuro_anteriore": "avrà seguito"
+          },
+          "Tu": {
+            "presente": "segui",
+            "passato_prossimo": "hai seguito",
+            "passato_imperfetto": "seguivi",
+            "futuro_semplice": "seguirai",
+            "futuro_anteriore": "avrai seguito"
+          },
+          "Noi": {
+            "presente": "seguiamo",
+            "passato_prossimo": "abbiamo seguito",
+            "passato_imperfetto": "seguivamo",
+            "futuro_semplice": "seguiremo",
+            "futuro_anteriore": "avremo seguito"
+          }
+        }
       },
       {
         "infinitive": "sentire",
-        "translation": "escuchar",
-        "passato_prossimo": "ho sentito",
-        "passato_imperfetto": "sentivo",
-        "futuro_semplice": "sentrò",
-        "futuro_anteriore": "avrò sentito"
+        "translation": "oír",
+        "persona": {
+          "Io": {
+            "presente": "sento",
+            "passato_prossimo": "ho sentito",
+            "passato_imperfetto": "sentivo",
+            "futuro_semplice": "sentrò",
+            "futuro_anteriore": "avrò sentito"
+          },
+          "Lui/Lei": {
+            "presente": "sente",
+            "passato_prossimo": "ha sentito",
+            "passato_imperfetto": "sentiva",
+            "futuro_semplice": "sentrà",
+            "futuro_anteriore": "avrà sentito"
+          },
+          "Tu": {
+            "presente": "senti",
+            "passato_prossimo": "hai sentito",
+            "passato_imperfetto": "sentivi",
+            "futuro_semplice": "sentrà",
+            "futuro_anteriore": "avrà sentito"
+          },
+          "Noi": {
+            "presente": "sentiamo",
+            "passato_prossimo": "abbiamo sentito",
+            "passato_imperfetto": "sentivamo",
+            "futuro_semplice": "sentiremo",
+            "futuro_anteriore": "avremo sentito"
+          }
+        }
       },
       {
         "infinitive": "spedire",
         "translation": "enviar",
-        "passato_prossimo": "ho spedito",
-        "passato_imperfetto": "spedivo",
-        "futuro_semplice": "spedirò",
-        "futuro_anteriore": "avrò spedito"
+        "persona": {
+          "Io": {
+            "presente": "spedisco",
+            "passato_prossimo": "ho spedito",
+            "passato_imperfetto": "spedivo",
+            "futuro_semplice": "spedirò",
+            "futuro_anteriore": "avrò spedito"
+          },
+          "Lui/Lei": {
+            "presente": "spedisce",
+            "passato_prossimo": "ha spedito",
+            "passato_imperfetto": "spediva",
+            "futuro_semplice": "spedirà",
+            "futuro_anteriore": "avrà spedito"
+          },
+          "Tu": {
+            "presente": "spedisci",
+            "passato_prossimo": "hai spedito",
+            "passato_imperfetto": "spedivi",
+            "futuro_semplice": "spedirai",
+            "futuro_anteriore": "avrai spedito"
+          },
+          "Noi": {
+            "presente": "spediamo",
+            "passato_prossimo": "abbiamo spedito",
+            "passato_imperfetto": "spedivamo",
+            "futuro_semplice": "spediremo",
+            "futuro_anteriore": "avremo spedito"
+          }
+        }
       },
       {
         "infinitive": "spegnere",
         "translation": "apagar",
-        "passato_prossimo": "ho spento",
-        "passato_imperfetto": "spegnivo",
-        "futuro_semplice": "spegnerò",
-        "futuro_anteriore": "avrò spento"
+        "persona": {
+          "Io": {
+            "presente": "spengo",
+            "passato_prossimo": "ho spento",
+            "passato_imperfetto": "spegnevo",
+            "futuro_semplice": "spegnerò",
+            "futuro_anteriore": "avrò spento"
+          },
+          "Lui/Lei": {
+            "presente": "spegne",
+            "passato_prossimo": "ha spento",
+            "passato_imperfetto": "spegneva",
+            "futuro_semplice": "spegnerà",
+            "futuro_anteriore": "avrà spento"
+          },
+          "Tu": {
+            "presente": "spegni",
+            "passato_prossimo": "hai spento",
+            "passato_imperfetto": "spegnevi",
+            "futuro_semplice": "spegnerai",
+            "futuro_anteriore": "avrai spento"
+          },
+          "Noi": {
+            "presente": "spegiamo",
+            "passato_prossimo": "abbiamo spento",
+            "passato_imperfetto": "spegnevamo",
+            "futuro_semplice": "spegneremo",
+            "futuro_anteriore": "avremo spento"
+          }
+        }
       },
       {
         "infinitive": "stare",
         "translation": "estar",
-        "passato_prossimo": "sono stato",
-        "passato_imperfetto": "stavo",
-        "futuro_semplice": "starò",
-        "futuro_anteriore": "sarò stato"
+        "persona": {
+          "Io": {
+            "presente": "sto",
+            "passato_prossimo": "sono stato/a",
+            "passato_imperfetto": "stavo",
+            "futuro_semplice": "starò",
+            "futuro_anteriore": "sarò stato/a"
+          },
+          "Lui/Lei": {
+            "presente": "sta",
+            "passato_prossimo": "è stato/a",
+            "passato_imperfetto": "stava",
+            "futuro_semplice": "starà",
+            "futuro_anteriore": "sarà stato/a"
+          },
+          "Tu": {
+            "presente": "stai",
+            "passato_prossimo": "sei stato/a",
+            "passato_imperfetto": "stavi",
+            "futuro_semplice": "starai",
+            "futuro_anteriore": "sarai stato/a"
+          },
+          "Noi": {
+            "presente": "stiamo",
+            "passato_prossimo": "siamo stati/e",
+            "passato_imperfetto": "stavamo",
+            "futuro_semplice": "staremo",
+            "futuro_anteriore": "saremo stati/e"
+          }
+        }
       },
       {
         "infinitive": "studiare",
         "translation": "estudiar",
-        "passato_prossimo": "ho studiato",
-        "passato_imperfetto": "studiavo",
-        "futuro_semplice": "studierò",
-        "futuro_anteriore": "avrò studiato"
+        "persona": {
+          "Io": {
+            "presente": "studio",
+            "passato_prossimo": "ho studiato",
+            "passato_imperfetto": "studiavo",
+            "futuro_semplice": "studierò",
+            "futuro_anteriore": "avrò studiato"
+          },
+          "Lui/Lei": {
+            "presente": "studia",
+            "passato_prossimo": "ha studiato",
+            "passato_imperfetto": "studiava",
+            "futuro_semplice": "studierà",
+            "futuro_anteriore": "avrà studiato"
+          },
+          "Tu": {
+            "presente": "studi",
+            "passato_prossimo": "hai studiato",
+            "passato_imperfetto": "studiavi",
+            "futuro_semplice": "studierai",
+            "futuro_anteriore": "avrai studiato"
+          },
+          "Noi": {
+            "presente": "studiamo",
+            "passato_prossimo": "abbiamo studiato",
+            "passato_imperfetto": "studiavamo",
+            "futuro_semplice": "studieremo",
+            "futuro_anteriore": "avremo studiato"
+          }
+        }
       },
       {
         "infinitive": "succedere",
         "translation": "suceder",
-        "passato_prossimo": "sono successo",
-        "passato_imperfetto": "succedivo",
-        "futuro_semplice": "succederò",
-        "futuro_anteriore": "sarò successo"
+        "persona": {
+          "Io": {
+            "presente": "succedo",
+            "passato_prossimo": "ho successo",
+            "passato_imperfetto": "succedeva",
+            "futuro_semplice": "succederò",
+            "futuro_anteriore": "avrò successo"
+          },
+          "Lui/Lei": {
+            "presente": "succede",
+            "passato_prossimo": "ha successo",
+            "passato_imperfetto": "succedeva",
+            "futuro_semplice": "succederà",
+            "futuro_anteriore": "avrà successo"
+          },
+          "Tu": {
+            "presente": "succedi",
+            "passato_prossimo": "hai successo",
+            "passato_imperfetto": "succedeva",
+            "futuro_semplice": "succederai",
+            "futuro_anteriore": "avrai successo"
+          },
+          "Noi": {
+            "presente": "succediamo",
+            "passato_prossimo": "abbiamo successo",
+            "passato_imperfetto": "succedeva",
+            "futuro_semplice": "succederemo",
+            "futuro_anteriore": "avremo successo"
+          }
+        }
       },
       {
         "infinitive": "tagliare",
         "translation": "cortar",
-        "passato_prossimo": "ho tagliato",
-        "passato_imperfetto": "tagliavo",
-        "futuro_semplice": "taglierò",
-        "futuro_anteriore": "avrò tagliato"
+        "persona": {
+          "Io": {
+            "presente": "taglio",
+            "passato_prossimo": "ho tagliato",
+            "passato_imperfetto": "tagliavo",
+            "futuro_semplice": "taglierò",
+            "futuro_anteriore": "avrò tagliato"
+          },
+          "Lui/Lei": {
+            "presente": "taglia",
+            "passato_prossimo": "ha tagliato",
+            "passato_imperfetto": "tagliava",
+            "futuro_semplice": "taglierà",
+            "futuro_anteriore": "avrà tagliato"
+          },
+          "Tu": {
+            "presente": "tagli",
+            "passato_prossimo": "hai tagliato",
+            "passato_imperfetto": "tagliavi",
+            "futuro_semplice": "taglierai",
+            "futuro_anteriore": "avrai tagliato"
+          },
+          "Noi": {
+            "presente": "tagliamo",
+            "passato_prossimo": "abbiamo tagliato",
+            "passato_imperfetto": "tagliavamo",
+            "futuro_semplice": "taglieremo",
+            "futuro_anteriore": "avremo tagliato"
+          }
+        }
       },
       {
         "infinitive": "telefonare",
         "translation": "llamar por teléfono",
-        "passato_prossimo": "ho telefonato",
-        "passato_imperfetto": "telefonavo",
-        "futuro_semplice": "telefonerò",
-        "futuro_anteriore": "avrò telefonato"
+        "persona": {
+          "Io": {
+            "presente": "telefono",
+            "passato_prossimo": "ho telefonato",
+            "passato_imperfetto": "telefonavo",
+            "futuro_semplice": "telefonerò",
+            "futuro_anteriore": "avrò telefonato"
+          },
+          "Lui/Lei": {
+            "presente": "telefona",
+            "passato_prossimo": "ha telefonato",
+            "passato_imperfetto": "telefonava",
+            "futuro_semplice": "telefonerà",
+            "futuro_anteriore": "avrà telefonato"
+          },
+          "Tu": {
+            "presente": "telefoni",
+            "passato_prossimo": "hai telefonato",
+            "passato_imperfetto": "telefonavi",
+            "futuro_semplice": "telefonerai",
+            "futuro_anteriore": "avrai telefonato"
+          },
+          "Noi": {
+            "presente": "telefoniamo",
+            "passato_prossimo": "abbiamo telefonato",
+            "passato_imperfetto": "telefonavamo",
+            "futuro_semplice": "telefoneremo",
+            "futuro_anteriore": "avremo telefonato"
+          }
+        }
       },
       {
         "infinitive": "temere",
         "translation": "temer",
-        "passato_prossimo": "ho temuto",
-        "passato_imperfetto": "temevo",
-        "futuro_semplice": "temerò",
-        "futuro_anteriore": "avrò temuto"
+        "persona": {
+          "Io": {
+            "presente": "temo",
+            "passato_prossimo": "ho temuto",
+            "passato_imperfetto": "temevo",
+            "futuro_semplice": "temerò",
+            "futuro_anteriore": "avrò temuto"
+          },
+          "Lui/Lei": {
+            "presente": "teme",
+            "passato_prossimo": "ha temuto",
+            "passato_imperfetto": "temeva",
+            "futuro_semplice": "temerà",
+            "futuro_anteriore": "avrà temuto"
+          },
+          "Tu": {
+            "presente": "temi",
+            "passato_prossimo": "hai temuto",
+            "passato_imperfetto": "temevi",
+            "futuro_semplice": "temerai",
+            "futuro_anteriore": "avrai temuto"
+          },
+          "Noi": {
+            "presente": "temiamo",
+            "passato_prossimo": "abbiamo temuto",
+            "passato_imperfetto": "temevamo",
+            "futuro_semplice": "temeremo",
+            "futuro_anteriore": "avremo temuto"
+          }
+        }
       },
       {
         "infinitive": "tenere",
         "translation": "tener",
-        "passato_prossimo": "ho tenuto",
-        "passato_imperfetto": "tenevo",
-        "futuro_semplice": "terrò",
-        "futuro_anteriore": "avrò tenuto"
+        "persona": {
+          "Io": {
+            "presente": "tengo",
+            "passato_prossimo": "ho tenuto",
+            "passato_imperfetto": "tenevo",
+            "futuro_semplice": "terrò",
+            "futuro_anteriore": "avrò tenuto"
+          },
+          "Lui/Lei": {
+            "presente": "tiene",
+            "passato_prossimo": "ha tenuto",
+            "passato_imperfetto": "teneva",
+            "futuro_semplice": "terrà",
+            "futuro_anteriore": "avrà tenuto"
+          },
+          "Tu": {
+            "presente": "tieni",
+            "passato_prossimo": "hai tenuto",
+            "passato_imperfetto": "tenevi",
+            "futuro_semplice": "terrai",
+            "futuro_anteriore": "avrai tenuto"
+          },
+          "Noi": {
+            "presente": "teniamo",
+            "passato_prossimo": "abbiamo tenuto",
+            "passato_imperfetto": "tenevamo",
+            "futuro_semplice": "terremo",
+            "futuro_anteriore": "avremo tenuto"
+          }
+        }
       },
       {
         "infinitive": "tornare",
         "translation": "volver",
-        "passato_prossimo": "sono tornato",
-        "passato_imperfetto": "tornavo",
-        "futuro_semplice": "tornerò",
-        "futuro_anteriore": "sarò tornato"
+        "persona": {
+          "Io": {
+            "presente": "torno",
+            "passato_prossimo": "sono tornato/a",
+            "passato_imperfetto": "tornavo",
+            "futuro_semplice": "tornerò",
+            "futuro_anteriore": "sarò tornato/a"
+          },
+          "Lui/Lei": {
+            "presente": "torna",
+            "passato_prossimo": "è tornato/a",
+            "passato_imperfetto": "tornava",
+            "futuro_semplice": "tornerà",
+            "futuro_anteriore": "sarà tornato/a"
+          },
+          "Tu": {
+            "presente": "torni",
+            "passato_prossimo": "sei tornato/a",
+            "passato_imperfetto": "tornavi",
+            "futuro_semplice": "tornerai",
+            "futuro_anteriore": "sarai tornato/a"
+          },
+          "Noi": {
+            "presente": "torniamo",
+            "passato_prossimo": "siamo tornati/e",
+            "passato_imperfetto": "tornavamo",
+            "futuro_semplice": "torneremo",
+            "futuro_anteriore": "saremo tornati/e"
+          }
+        }
       },
       {
         "infinitive": "trovare",
         "translation": "encontrar",
-        "passato_prossimo": "ho trovato",
-        "passato_imperfetto": "trovavo",
-        "futuro_semplice": "troverò",
-        "futuro_anteriore": "avrò trovato"
+        "persona": {
+          "Io": {
+            "presente": "trovo",
+            "passato_prossimo": "ho trovato",
+            "passato_imperfetto": "trovavo",
+            "futuro_semplice": "troverò",
+            "futuro_anteriore": "avrò trovato"
+          },
+          "Lui/Lei": {
+            "presente": "trova",
+            "passato_prossimo": "ha trovato",
+            "passato_imperfetto": "trovava",
+            "futuro_semplice": "troverà",
+            "futuro_anteriore": "avrà trovato"
+          },
+          "Tu": {
+            "presente": "trovi",
+            "passato_prossimo": "hai trovato",
+            "passato_imperfetto": "trovavi",
+            "futuro_semplice": "troverai",
+            "futuro_anteriore": "avrai trovato"
+          },
+          "Noi": {
+            "presente": "troviamo",
+            "passato_prossimo": "abbiamo trovato",
+            "passato_imperfetto": "trovavamo",
+            "futuro_semplice": "troveremo",
+            "futuro_anteriore": "avremo trovato"
+          }
+        }
       },
       {
         "infinitive": "uscire",
         "translation": "salir",
-        "passato_prossimo": "sono uscito",
-        "passato_imperfetto": "uscivo",
-        "futuro_semplice": "uscirò",
-        "futuro_anteriore": "sarò uscito"
+        "persona": {
+          "Io": {
+            "presente": "esco",
+            "passato_prossimo": "sono uscito/a",
+            "passato_imperfetto": "uscivo",
+            "futuro_semplice": "uscirò",
+            "futuro_anteriore": "sarò uscito/a"
+          },
+          "Lui/Lei": {
+            "presente": "esce",
+            "passato_prossimo": "è uscito/a",
+            "passato_imperfetto": "usciva",
+            "futuro_semplice": "uscirà",
+            "futuro_anteriore": "sarà uscito/a"
+          },
+          "Tu": {
+            "presente": "esci",
+            "passato_prossimo": "sei uscito/a",
+            "passato_imperfetto": "uscivi",
+            "futuro_semplice": "uscirai",
+            "futuro_anteriore": "sarai uscito/a"
+          },
+          "Noi": {
+            "presente": "usciamo",
+            "passato_prossimo": "siamo usciti/e",
+            "passato_imperfetto": "uscivamo",
+            "futuro_semplice": "usciremo",
+            "futuro_anteriore": "saremo usciti/e"
+          }
+        }
       },
       {
         "infinitive": "vedere",
         "translation": "ver",
-        "passato_prossimo": "ho visto",
-        "passato_imperfetto": "vedevo",
-        "futuro_semplice": "vedrò",
-        "futuro_anteriore": "avrò visto"
+        "persona": {
+          "Io": {
+            "presente": "vedo",
+            "passato_prossimo": "ho visto",
+            "passato_imperfetto": "vedevo",
+            "futuro_semplice": "vedrò",
+            "futuro_anteriore": "avrò visto"
+          },
+          "Lui/Lei": {
+            "presente": "vede",
+            "passato_prossimo": "ha visto",
+            "passato_imperfetto": "vedeva",
+            "futuro_semplice": "vedrà",
+            "futuro_anteriore": "avrà visto"
+          },
+          "Tu": {
+            "presente": "vedi",
+            "passato_prossimo": "hai visto",
+            "passato_imperfetto": "vedevi",
+            "futuro_semplice": "vedrai",
+            "futuro_anteriore": "avrai visto"
+          },
+          "Noi": {
+            "presente": "vediamo",
+            "passato_prossimo": "abbiamo visto",
+            "passato_imperfetto": "vedevamo",
+            "futuro_semplice": "vedremo",
+            "futuro_anteriore": "avremo visto"
+          }
+        }
       },
       {
         "infinitive": "venire",
         "translation": "venir",
-        "passato_prossimo": "sono venuto",
-        "passato_imperfetto": "venivo",
-        "futuro_semplice": "verrò",
-        "futuro_anteriore": "sarò venuto"
+        "persona": {
+          "Io": {
+            "presente": "vengo",
+            "passato_prossimo": "sono venuto/a",
+            "passato_imperfetto": "venivo",
+            "futuro_semplice": "verrò",
+            "futuro_anteriore": "sarò venuto/a"
+          },
+          "Lui/Lei": {
+            "presente": "viene",
+            "passato_prossimo": "è venuto/a",
+            "passato_imperfetto": "veniva",
+            "futuro_semplice": "verrà",
+            "futuro_anteriore": "sarà venuto/a"
+          },
+          "Tu": {
+            "presente": "vieni",
+            "passato_prossimo": "sei venuto/a",
+            "passato_imperfetto": "venivi",
+            "futuro_semplice": "verrai",
+            "futuro_anteriore": "sarai venuto/a"
+          },
+          "Noi": {
+            "presente": "veniamo",
+            "passato_prossimo": "siamo venuti/e",
+            "passato_imperfetto": "venivamo",
+            "futuro_semplice": "verremo",
+            "futuro_anteriore": "saremo venuti/e"
+          }
+        }
       },
       {
         "infinitive": "vivere",
         "translation": "vivir",
-        "passato_prossimo": "ho vissuto",
-        "passato_imperfetto": "vivevo",
-        "futuro_semplice": "vivrò",
-        "futuro_anteriore": "avrò vissuto"
+        "persona": {
+          "Io": {
+            "presente": "vivo",
+            "passato_prossimo": "ho vissuto",
+            "passato_imperfetto": "vivevo",
+            "futuro_semplice": "vivrò",
+            "futuro_anteriore": "avrò vissuto"
+          },
+          "Lui/Lei": {
+            "presente": "vive",
+            "passato_prossimo": "ha vissuto",
+            "passato_imperfetto": "viveva",
+            "futuro_semplice": "vivrà",
+            "futuro_anteriore": "avrà vissuto"
+          },
+          "Tu": {
+            "presente": "vivi",
+            "passato_prossimo": "hai vissuto",
+            "passato_imperfetto": "vivevi",
+            "futuro_semplice": "vivrari",
+            "futuro_anteriore": "avrai vissuto"
+          },
+          "Noi": {
+            "presente": "viviamo",
+            "passato_prossimo": "abbiamo vissuto",
+            "passato_imperfetto": "vivevamo",
+            "futuro_semplice": "vivreemo",
+            "futuro_anteriore": "avremo vissuto"
+          }
+        }
       },
       {
         "infinitive": "volere",
         "translation": "querer",
-        "passato_prossimo": "ho voluto",
-        "passato_imperfetto": "volevo",
-        "futuro_semplice": "vorò",
-        "futuro_anteriore": "avrò voluto"
+        "persona": {
+          "Io": {
+            "presente": "voglio",
+            "passato_prossimo": "ho voluto",
+            "passato_imperfetto": "volevo",
+            "futuro_semplice": "vorrrò",
+            "futuro_anteriore": "avrò voluto"
+          },
+          "Lui/Lei": {
+            "presente": "vuole",
+            "passato_prossimo": "ha voluto",
+            "passato_imperfetto": "voleva",
+            "futuro_semplice": "vorrà",
+            "futuro_anteriore": "avrà voluto"
+          },
+          "Tu": {
+            "presente": "vuoi",
+            "passato_prossimo": "hai voluto",
+            "passato_imperfetto": "volevi",
+            "futuro_semplice": "vorrai",
+            "futuro_anteriore": "avrai voluto"
+          },
+          "Noi": {
+            "presente": "vogliamo",
+            "passato_prossimo": "abbiamo voluto",
+            "passato_imperfetto": "volevamo",
+            "futuro_semplice": "vorremo",
+            "futuro_anteriore": "avremo voluto"
+          }
+        }
       }
-      
-    
     ]
   }
-
   
+
+
+
