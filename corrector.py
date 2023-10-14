@@ -90,11 +90,14 @@ def verbos():
             playtime = datetime.now()
             points = 0
             verbo_aleatorio = random.choice(data)
+            personas = random.choice(['Io', 'Tu','Lui/Lei','Noi'])
+            persona = verbo_aleatorio['persona'][personas]
             
-            print(f'{decorado} \n Ricorda che dovresti sempre rispondere con la persona "IO" \n')
+            print(f'{decorado} \n Ricorda che dovresti rispondere con la persona {personas} \n')
 
             print('Turno del giocatore', player.upper())
             levels = {'traduzione':'translation',
+                    'presente': 'presente',
                     'passato prosimo':'passato_prossimo',
                     'passato imperfetto':'passato_imperfetto',
                     'futuro semplice':'futuro_semplice',
@@ -103,8 +106,13 @@ def verbos():
             infinitive = verbo_aleatorio['infinitive'].upper()
             for key,value in levels.items(): 
 
-                player_input = input(f'Scrivi {key.upper()} del verbo {infinitive}: ').lower()
-                points = comparador(verbo_aleatorio[value],player_input, points)
+                if key == 'traduzione':
+                    player_input = input(f'Scrivi {key.upper()} del verbo {infinitive}: ').lower()
+                    points = comparador(verbo_aleatorio[value],player_input, points)
+                    
+                else:
+                    player_input = input(f'Scrivi {key.upper()} del verbo {infinitive}: ').lower()
+                    points = comparador(persona[value],player_input, points)      
             print(f'{decorado} \n {decorado}  HAI AGGIUNTO IN TOTALE {points} PUNTI \n {decorado}')
 
             new_game_info = [playtime, player, game, points]
